@@ -4035,12 +4035,12 @@
                                                                                       "_content": "[LABEL ]"
                                                                                     }
                                                                                   ],
-                                                                                  "_mark": "EPISODE1,gop1_about_gop2",
-                                                                                  "_content": "[LABEL Здоровый такой бык, боксер, кореш мой.][VIDEO gops1_gop1_speaking.mp4][AUDIO gop1_brick_is_boxer.mp3]"
+                                                                                  "_mark": "mark_fy2o68291me86x616i93",
+                                                                                  "_content": "[LABEL С моего заряд в ботву ушел.][VIDEO gops1_gop1_speaking.mp4][AUDIO gop1_brick_is_boxer.mp3]"
                                                                                 }
                                                                               ],
-                                                                              "_mark": "who_is_kirpich",
-                                                                              "_content": "[LABEL Кто такой Кирпич?]"
+                                                                              "_mark": "",
+                                                                              "_content": "[LABEL Захрен тебе мой, коль свой есть?]"
                                                                             },
                                                                             {
                                                                               "node": [
@@ -4165,16 +4165,16 @@
                                                                                   "_content": "[LABEL ][GOTO shisha1,shisha2,shisha3,shisha4]"
                                                                                 }
                                                                               ],
-                                                                              "_mark": "that_wasnt_me",
-                                                                              "_content": "[LABEL Это был не я.]"
+                                                                              "_mark": "",
+                                                                              "_content": "[LABEL Ступай себе нахрен, чиполлино]"
                                                                             }
                                                                           ],
-                                                                          "_mark": "gop1_i_known_you",
-                                                                          "_content": "[LABEL Не, я тя сразу узнал! Там еще Кирпич был с нами, подтвердит.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_brick_approve.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                          "_mark": "mark_z6dx3tm4d7va5166jx61",
+                                                                          "_content": "[LABEL Не кисли. Дай свой номер, я тя щас наберу, если при тебе зазвонит - мой будет.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_brick_approve.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                         }
                                                                       ],
-                                                                      "_mark": "you_missed_me_with_smbdy",
-                                                                      "_content": "[LABEL Ты меня с кем-то путаешь]"
+                                                                      "_mark": "",
+                                                                      "_content": "[LABEL Нету техи]"
                                                                     },
                                                                     {
                                                                       "_mark": "",
@@ -4182,7 +4182,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_tells_drunken_story1",
-                                                                  "_content": "[LABEL Да не гони! Я помню, ты выпил пол-бара и нажрался в дрова!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_bar.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Слух, дай теху, жигурде звонок сделать.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 },
                                                                 {
                                                                   "node": [
@@ -4196,7 +4196,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_tells_drunken_story2",
-                                                                  "_content": "[LABEL Да ладно! Таких забивных синяков еще поискать надо!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_crazy_drinker.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Добавь на пивас?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_crazy_drinker.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 },
                                                                 {
                                                                   "node": [
@@ -4210,7 +4210,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_tells_drunken_story3",
-                                                                  "_content": "[LABEL Ты на спор хлопнул пять шотов, чтоб хряпнуть еще семь призовых.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Ты щас это видел?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 }
                                                               ],
                                                               "_mark": "",
@@ -4221,8 +4221,8 @@
                                                           "_content": "[LABEL ][GOTO gop1_tells_drunken_story1,gop1_tells_drunken_story2,gop1_tells_drunken_story3]"
                                                         }
                                                       ],
-                                                      "_mark": "hero_you_wrong_i_dont_drink",
-                                                      "_content": "[LABEL Ты ошибаешься, я не пью]"
+                                                      "_mark": "",
+                                                      "_content": "[LABEL Ну спрашивай]"
                                                     },
                                                     {
                                                       "_mark": "",
@@ -4233,12 +4233,12 @@
                                                       "_content": "[LABEL ][GOTO that_wasnt_me]"
                                                     }
                                                   ],
-                                                  "_mark": "we_clubbed_together",
-                                                  "_content": "[LABEL Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_drink_in_club.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                  "_mark": "mark_vt6p99phqr0360x54kj9",
+                                                  "_content": "[LABEL Да ничо. Спросить хотел.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
                                               "_mark": "",
-                                              "_content": "[LABEL Нет, не помню]"
+                                              "_content": "[LABEL По нормалу, а чо?]"
                                             },
                                             {
                                               "node": [
@@ -4263,8 +4263,8 @@
                                                   "_content": "[LABEL Точняк! Мы с тобой недавно в клубешнике бухали. Там еще Кирпич был.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_drink_in_club2.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
-                                              "_mark": "gop1_name_hryash",
-                                              "_content": "[LABEL Хрящ?]"
+                                              "_mark": "",
+                                              "_content": "[LABEL А тебе не все ли равно?]"
                                             },
                                             {
                                               "node": [
@@ -4283,38 +4283,16 @@
                                                   "_content": "[LABEL Не, Червлей чуток позже подтянется.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_about_chervley.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
-                                              "_mark": "gop1_name_chervley",
-                                              "_content": "[LABEL Червлей?]"
-                                            },
-                                            {
-                                              "node": [
-                                                {
-                                                  "node": [
-                                                    {
-                                                      "node": [
-                                                        {
-                                                          "_mark": "mark_sv54ce7is24h03h0fg7c",
-                                                          "_content": "[LABEL ][GOTO mark_final9]"
-                                                        }
-                                                      ],
-                                                      "_mark": "",
-                                                      "_content": "[LABEL ]"
-                                                    }
-                                                  ],
-                                                  "_mark": "mark_r2o8845h92371j97wafq",
-                                                  "_content": "[LABEL Сам ты Митяй!][VIDEO gops1_gop1_speaking_hard.mp4][AUDIO gop1_mitey.mp3]"
-                                                }
-                                              ],
-                                              "_mark": "gop1_name_vasyan",
-                                              "_content": "[LABEL Митяй?]"
+                                              "_mark": "",
+                                              "_content": "[LABEL Спроси другого жигурду]"
                                             }
                                           ],
-                                          "_mark": "gop1_remember_me",
-                                          "_content": "[LABEL Помнишь, меня?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_remember_me.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                          "_mark": "mark_302kg1d9ru4t9h752g15",
+                                          "_content": "[LABEL Как сам?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                         }
                                       ],
                                       "_mark": "",
-                                      "_content": "[LABEL Здарова]"
+                                      "_content": "[LABEL Здарова, жигурда]"
                                     },
                                     {
                                       "node": [
@@ -4323,12 +4301,28 @@
                                             {
                                               "node": [
                                                 {
-                                                  "_mark": "mark_5ezv3r4f8669lm442122",
-                                                  "_content": "[LABEL ][GOTO we_clubbed_together]"
+                                                  "node": [
+                                                    {
+                                                      "node": [
+                                                        {
+                                                          "_mark": "mark_9ksuwg23kq4e4ngb3lc2",
+                                                          "_content": "[LABEL <Enter text here>]"
+                                                        }
+                                                      ],
+                                                      "_mark": "",
+                                                      "_content": "[LABEL А у тя есть чо?]"
+                                                    },
+                                                    {
+                                                      "_mark": "",
+                                                      "_content": "[LABEL Я колеса гоню по делу]"
+                                                    }
+                                                  ],
+                                                  "_mark": "mark_s7lyaorot7c689hpj42d",
+                                                  "_content": "[LABEL Так давай раскумарим!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
                                               "_mark": "",
-                                              "_content": "[LABEL Все равно, не узнаю]"
+                                              "_content": "[LABEL Я с тобой косяк не кумарил, чтоб ты своим был]"
                                             },
                                             {
                                               "node": [
@@ -4350,7 +4344,7 @@
                                                 }
                                               ],
                                               "_mark": "",
-                                              "_content": "[LABEL Ты из доставки еды?]"
+                                              "_content": "[LABEL Свали в бездну!]"
                                             },
                                             {
                                               "_mark": "",
@@ -4361,12 +4355,12 @@
                                               "_content": "[LABEL ][GOTO gop1_name_hryash]"
                                             }
                                           ],
-                                          "_mark": "mark_00lf7hrf944jl3ndd9ny",
-                                          "_content": "[LABEL Не узнал? - Богатым седня буду! Примета такая есть, реально, отвечаю.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_be_rich.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                          "_mark": "mark_c422v4x76q2zw33ak9q4",
+                                          "_content": "[LABEL Братанаход, ты чо борзишь то? Я свой.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                         }
                                       ],
                                       "_mark": "",
-                                      "_content": "[LABEL Здарова, нет не узнал]"
+                                      "_content": "[LABEL Сгинь образина]"
                                     },
                                     {
                                       "node": [
@@ -4450,11 +4444,11 @@
                                         }
                                       ],
                                       "_mark": "",
-                                      "_content": "[LABEL Нет, не узнал]"
+                                      "_content": "[LABEL Сам ты жигурда]"
                                     }
                                   ],
                                   "_mark": "GAME_SAVEPOINT",
-                                  "_content": "[LABEL Здарова, братан! Не узнал что ли?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_intro.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][MUSIC none][AMBIENT ambient][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                  "_content": "[LABEL Эээ! Братанаход, стопэ! Здарова, жигурда!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][MUSIC none][AMBIENT ambient][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                 }
                               ],
                               "_mark": "",
@@ -4466,7 +4460,7 @@
                         }
                       ],
                       "_mark": "",
-                      "_content": "[LABEL ПОГНАЛИ!]"
+                      "_content": "[LABEL ПОБЕЖАЛИ!]"
                     },
                     {
                       "node": [
@@ -4536,7 +4530,7 @@
                     }
                   ],
                   "_mark": "PREPARE",
-                  "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGNDVIDEO intro.mp4][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
+                  "_content": "[LABEL Симулятор Гопника, часть 6. Эпический сходняк.\n(версия 1.{this.game_version})][BGNDVIDEO intro.mp4][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
                 },
                 {
                   "node": [
@@ -6556,7 +6550,7 @@
             }
           ],
           "_mark": "START",
-          "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg&intro_gops.png&title.png][ANSWERSORDER ON]"
+          "_content": "[LABEL Симулятор Гопника, часть 6. Эпический сходняк.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg&intro_gops.png&title.png][ANSWERSORDER ON]"
         }
       ]
     }
