@@ -34,10 +34,8 @@
 																																	[hero_no_smoke]Я не курю
 																																		[mark_48v09y1612p96x7s0977]Ты чо, как не пацан то? Все пацаны курят.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			<Enter text here>
-																																			[ok_give_ciga]Ок, давай
-																																				[mark_y6c0t8j873r5eyu1j6k8]<дает сигарету-петарду, прикуривает, взрыв, метный экран>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					
-																																						[mark_4o2a94v2307l2nh6sxy5][GOTO mark_final7]
+																																			[ok_give_ciga]Лады, давай
+																																				[mark_4o2a94v2307l2nh6sxy5][GOTO mark_final7]
 																																	[GOTO ok_give_ciga]
 																															[GOTO hero_no_smoke]
 																													Лады, давай
@@ -191,8 +189,19 @@
 								[mark_c422v4x76q2zw33ak9q4]Братанаход, ты чо своим борзишь то?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									Я с тобой косяк не кумарил, чтоб ты своим был
 										[mark_s7lyaorot7c689hpj42d]Так давай раскумарим![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-											У тебя есть?
-												[mark_9ksuwg23kq4e4ngb3lc2]<Enter text here>
+											А у тебя есть?
+												[mark_z16p008j9sucnz47g269]Имеется.<гоп достает сигу>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+													Хорошая трава?
+														[mark_7m1c401s48k1hc58yz71]Тя точно взорвет! Ыыыы...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															[hero_give_me_smoke]Давай я раскумарю
+																[mark_vo9128767toi6xz787di]Ну давай.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																	Погоди, тут же люди ходят!
+																		[mark_wyk03h7emzagq20035kp]Лады пошли за угол...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																			>>>
+																				[mark_2kyxc630723q6gx7oi40][GOTO mark_final2]
+																	Раскумарю
+																		[mark_yar2zvk62v5yxx8gyr50][GOTO mark_final7]
+													[GOTO hero_give_me_smoke]
 											[GOTO hero_have_no_time]
 									[GOTO hero_go_hell_gop1]
 							Я тебя не знаю
@@ -209,30 +218,33 @@
 												[mark_5fatn2vqe105kph85844]А тя чо, руку жать не учили, када здароваешься?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 													Обойдемся без этого
 														[gop1_ask_shake_hand]Слух, я к те по-пацански подкатил, клешнями потрясти. А ты мне понты строишь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															[GOTO hero_shake_gop_hand]
 															[hero_have_no_time]Некогда, я тороплюсь
 																[mark_fwpif917657c2d05q7a9]Чо, колеса по делу гонишь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Типа того
-																		[mark_tkhug28d0u28tsbb56x5]Дай мне 30 секунд спросить и пойдешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			Ладно, только быстрее
-																				[mark_042dd7plq1phx6m2t0c4][GOTO gop1_asks]
-																			Отвянь
-																				[mark_now4p063rt0b4tw734cr]Я не понял, ты мне грубишь щас?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																					[hero_go_hell_gop1]Свали в бездну, образина
-																						[mark_4t5j9hsq5kv1eue6a342][GOTO gop1_you_shit]
-																					<Enter text here>
 																	Дай пройти
 																		[mark_ft1064mh0030u7b17d65]А если не дам, то чо?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Увидишь
-																				[mark_31h391n69io7t92aesnb]<Enter text here>
+																				[gop1_give_me_30sec]Дай мне 30 секунд спросить и пойдешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																					Отвянь
+																						[mark_now4p063rt0b4tw734cr]Я не понял, ты мне грубишь щас?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																							[hero_go_hell_gop1]Свали в бездну, образина
+																								[gop1_you_shit]Эээ! Ты чо, лошара, совсем нюх потерял?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																									Пшел на
+																										[mark_6bpgg3149l611u45svcp]Эээ! А ну давай отойдем, разберемся по-пацански![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																											Ну давай, пошли
+																												[mark_k4n8u5kas5bvd8upeq5n][GOTO mark_final2]
+																											[hero_asks_gop_calm_what_want]Ладно, успокойся, чего хотел?
+																												[mark_6128jyvz6m2c50bmg1l6][GOTO gop1_want_ask]
+																									[GOTO hero_asks_gop_calm_what_want]
+																							[hero_asks_gop_what_want]Ну ладно, чо хотел то?
+																								[mark_3v1j4eodvft23hx85g00][GOTO gop1_want_ask]
+																					Ладно, только быстрее
+																						[mark_042dd7plq1phx6m2t0c4][GOTO gop1_asks]
 																			В морду получишь
-																				[gop1_you_shit]Эээ! Ты чо, лошара, совсем нюх потерял?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																					Пшел на
-																						[gop1_go_beat]Эээ! А ну давай отойдем, разберемся по-пацански![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																							Ну давай, пошли
-																								[mark_k4n8u5kas5bvd8upeq5n][GOTO mark_final2]
-																							<Enter text here>
-																					<Enter text here>
+																				[mark_4t5j9hsq5kv1eue6a342][GOTO gop1_you_shit]
+																			[GOTO hero_asks_gop_what_want]
+																	Типа того
+																		[mark_d37cp8jxtwj6798n2v86][GOTO gop1_give_me_30sec]
+															[GOTO hero_shake_gop_hand]
 													Учили
 														[mark_753py6442v83x1r463u8]Ну так пожми руку жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															[hero_shake_gop_hand]Пожму руку
@@ -508,7 +520,7 @@
 			[GOTO ddonate]
 		[mark_final2]...[IMAGE black.jpg][AUDIO silent_1]
 			
-				[mark_at5uuvh5r2wb2e059z1p]Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
+				[mark_at5uuvh5r2wb2e059z1p]За углом тебя ждали кореша гопа. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
 					[GOTO ddonate]
 		[mark_final3]С твоего телефона списали все деньги, это была платная услуга. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.mp4]
@@ -525,7 +537,9 @@
 		[mark_final6]Тебе пришлось возмещать мужику ущерб, чтобы не посадили. Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final7]Гоп прикурил тебе петарду. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final7]<дает сигарету-петарду, прикуривает, взрыв, метный экран>[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
+			
+				[mark_ys4ra2l5wdz170aas8x9]Гоп прикурил тебе петарду. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final8]Гоп отвлек твое внимание и стукнул тебе в жбан. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
