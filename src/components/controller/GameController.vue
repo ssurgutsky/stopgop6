@@ -264,7 +264,7 @@ export default {
         this.gameModel.setCurrentAudioIndex(0)
       }
 
-      if (this.checkIsSpeechEnabled()) {
+      if (this.checkIsSpeechEnabled() && this.gameModel.hasCurrentAudio()) {
         this.mainView.playAudio(this.gameModel.getCurrentAudioName(), false, this.gameModel.getCurrentQuestionLabel())
         return true
       }
