@@ -57,17 +57,21 @@ export default {
     },
 
     playAudio (name, loop, text) {
-      console.log(name, text)
+      console.log('playAudio:', name, text)
 
-      if (Settings.ENABLE_SPEECH && text && text !== '...') {
-        var voices = speechSynthesis.getVoices()
-        // console.log('voices', voices)
-        this.currentUtterance = new SpeechSynthesisUtterance(text)
-        this.currentUtterance.voice = voices[0]
-        this.currentUtterance.rate = 2
-        this.currentUtterance.onend = this.onAudioEnded
-        // console.log('utterance', this.currentUtterance)
-        speechSynthesis.speak(this.currentUtterance)
+      if (Settings.ENABLE_SPEECH) {
+        if (text && text !== '...') {
+          var voices = speechSynthesis.getVoices()
+          // console.log('voices', voices)
+          this.currentUtterance = new SpeechSynthesisUtterance(text)
+          this.currentUtterance.voice = voices[0]
+          this.currentUtterance.rate = 2
+          this.currentUtterance.onend = this.onAudioEnded
+          // console.log('utterance', this.currentUtterance)
+          speechSynthesis.speak(this.currentUtterance)
+        } else {
+          this.onAudioEnded()
+        }
         return
       }
 

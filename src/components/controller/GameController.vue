@@ -264,9 +264,17 @@ export default {
         this.gameModel.setCurrentAudioIndex(0)
       }
 
-      if (this.checkIsSpeechEnabled() && this.gameModel.hasCurrentAudio()) {
-        this.mainView.playAudio(this.gameModel.getCurrentAudioName(), false, this.gameModel.getCurrentQuestionLabel())
-        return true
+      if (this.checkIsSpeechEnabled()) {
+        // console.log('HERE', this.gameModel.currentAudioIndex)
+        if (this.gameModel.hasCurrentAudio() && this.gameModel.currentAudioIndex === 0) {
+          this.mainView.playAudio('none', false, this.gameModel.getCurrentQuestionLabel())
+          return true
+        } else {
+          if (this.gameModel.currentAudioIndex === 0) {
+            this.mainView.playAudio('none', false, null)
+            return false
+          }
+        }
       }
 
       if (this.gameModel.hasCurrentAudio()) {

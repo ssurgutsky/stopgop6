@@ -192,7 +192,7 @@
                                                                                                             }
                                                                                                           ],
                                                                                                           "_mark": "mark_9f1fc4o80cn84su84dmi",
-                                                                                                          "_content": "[LABEL Ты чо, рубанулся?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                          "_content": "[LABEL Ты чо, рубанулся?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "",
@@ -222,7 +222,7 @@
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "mark_u874og1pqqimb7282st4",
-                                                                                                  "_content": "[LABEL Короче, тут такое дело, пацанчик шел, лопатник обронил.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_content": "[LABEL Короче, тут такое дело, мужик шел, лопатник обронил.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
@@ -234,7 +234,7 @@
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
-                                                                                      "_content": "[LABEL Иди в пень]"
+                                                                                      "_content": "[LABEL Мне поровну]"
                                                                                     },
                                                                                     {
                                                                                       "node": [
@@ -391,33 +391,33 @@
                                                                                                                                                     {
                                                                                                                                                       "node": [
                                                                                                                                                         {
-                                                                                                                                                          "_mark": "mark_3t5j6fdsg6md31r59156",
-                                                                                                                                                          "_content": "[LABEL ][GOTO mark_final3]"
+                                                                                                                                                          "node": [
+                                                                                                                                                            {
+                                                                                                                                                              "node": [
+                                                                                                                                                                {
+                                                                                                                                                                  "_mark": "mark_3t5j6fdsg6md31r59156",
+                                                                                                                                                                  "_content": "[LABEL ][GOTO mark_final3]"
+                                                                                                                                                                }
+                                                                                                                                                              ],
+                                                                                                                                                              "_mark": "",
+                                                                                                                                                              "_content": "[LABEL Бывай]"
+                                                                                                                                                            }
+                                                                                                                                                          ],
+                                                                                                                                                          "_mark": "trick2_gop1_bye",
+                                                                                                                                                          "_content": "[LABEL Ну, бывай, братуха, я почапал.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                         }
                                                                                                                                                       ],
                                                                                                                                                       "_mark": "",
-                                                                                                                                                      "_content": "[LABEL Бывай]"
+                                                                                                                                                      "_content": "[LABEL >>>]"
                                                                                                                                                     }
                                                                                                                                                   ],
-                                                                                                                                                  "_mark": "trick2_gop1_bye",
-                                                                                                                                                  "_content": "[LABEL Ну, бывай, братуха, я почапал.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                  "_mark": "mark_10024r8t11w0p8u7i4h1",
+                                                                                                                                                  "_content": "[LABEL <ГГ звонит>Алло! Сява вечером долг вернет.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                 }
                                                                                                                                               ],
                                                                                                                                               "_mark": "",
-                                                                                                                                              "_content": "[LABEL >>>]"
-                                                                                                                                            }
-                                                                                                                                          ],
-                                                                                                                                          "_mark": "mark_10024r8t11w0p8u7i4h1",
-                                                                                                                                          "_content": "[LABEL <ГГ звонит>Алло! Сява вечером долг вернет.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                                                        }
-                                                                                                                                      ],
-                                                                                                                                      "_mark": "",
-                                                                                                                                      "_content": "[LABEL Наберу номер]"
-                                                                                                                                    },
-                                                                                                                                    {
-                                                                                                                                      "node": [
-                                                                                                                                        {
-                                                                                                                                          "node": [
+                                                                                                                                              "_content": "[LABEL Наберу номер]"
+                                                                                                                                            },
                                                                                                                                             {
                                                                                                                                               "node": [
                                                                                                                                                 {
@@ -425,68 +425,80 @@
                                                                                                                                                     {
                                                                                                                                                       "node": [
                                                                                                                                                         {
-                                                                                                                                                          "_mark": "mark_zi2gr2u22gsu33uig2j5",
-                                                                                                                                                          "_content": "[LABEL ][GOTO trick2_gop1_bye]"
+                                                                                                                                                          "node": [
+                                                                                                                                                            {
+                                                                                                                                                              "node": [
+                                                                                                                                                                {
+                                                                                                                                                                  "_mark": "mark_zi2gr2u22gsu33uig2j5",
+                                                                                                                                                                  "_content": "[LABEL ][GOTO trick2_gop1_bye]"
+                                                                                                                                                                }
+                                                                                                                                                              ],
+                                                                                                                                                              "_mark": "",
+                                                                                                                                                              "_content": "[LABEL Отправил]"
+                                                                                                                                                            }
+                                                                                                                                                          ],
+                                                                                                                                                          "_mark": "mark_cp20376f6b93demoad13",
+                                                                                                                                                          "_content": "[LABEL <ГГ отправляет смс>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                         }
                                                                                                                                                       ],
                                                                                                                                                       "_mark": "",
-                                                                                                                                                      "_content": "[LABEL Отправил]"
+                                                                                                                                                      "_content": "[LABEL Отправлю смс]"
                                                                                                                                                     }
                                                                                                                                                   ],
-                                                                                                                                                  "_mark": "mark_cp20376f6b93demoad13",
-                                                                                                                                                  "_content": "[LABEL <ГГ отправляет смс>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                  "_mark": "mark_nztdk0922o9b7p16r2f1",
+                                                                                                                                                  "_content": "[LABEL Ну смску хоть отправь \"Сява долг вернет\"!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                 }
                                                                                                                                               ],
                                                                                                                                               "_mark": "",
-                                                                                                                                              "_content": "[LABEL Отправлю смс]"
+                                                                                                                                              "_content": "[LABEL Нет, не могу]"
                                                                                                                                             }
                                                                                                                                           ],
-                                                                                                                                          "_mark": "mark_nztdk0922o9b7p16r2f1",
-                                                                                                                                          "_content": "[LABEL Ну смску хоть отправь \"Сява долг вернет\"!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                          "_mark": "mark_3cs3rw6mq042z2xha1l7",
+                                                                                                                                          "_content": "[LABEL Все вспомнил! Набирай. Скажешь, что Сява вечером долг вернет.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                         }
                                                                                                                                       ],
                                                                                                                                       "_mark": "",
-                                                                                                                                      "_content": "[LABEL Нет, не могу]"
+                                                                                                                                      "_content": "[LABEL Нет]"
                                                                                                                                     }
                                                                                                                                   ],
-                                                                                                                                  "_mark": "mark_3cs3rw6mq042z2xha1l7",
-                                                                                                                                  "_content": "[LABEL Все вспомнил! Набирай. Скажешь, что Сява вечером долг вернет.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                  "_mark": "mark_f9817xa77595fom63bl7",
+                                                                                                                                  "_content": "[LABEL 8... 9... забыл! Дай сам наберу.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                 }
                                                                                                                               ],
                                                                                                                               "_mark": "",
-                                                                                                                              "_content": "[LABEL Нет]"
+                                                                                                                              "_content": "[LABEL Достать теху]"
                                                                                                                             }
                                                                                                                           ],
                                                                                                                           "_mark": "mark_f9817xa77595fom63bl7",
-                                                                                                                          "_content": "[LABEL 8... 9... забыл! Дай сам наберу.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                          "_content": "[LABEL Ну ты жук. Лады, тоды позвони сам жигурде. Я скажу номер.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                         }
                                                                                                                       ],
                                                                                                                       "_mark": "",
-                                                                                                                      "_content": "[LABEL Достать теху]"
+                                                                                                                      "_content": "[LABEL Это не моя, это рабочая теха]"
                                                                                                                     }
                                                                                                                   ],
-                                                                                                                  "_mark": "mark_f9817xa77595fom63bl7",
-                                                                                                                  "_content": "[LABEL Ну ты жук. Лады, тоды позвони сам жигурде. Я скажу номер.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                  "_mark": "mark_9h91no28mnrw2z3ove5j",
+                                                                                                                  "_content": "[LABEL Погодь! То есть у тя все таки есть теха? Ты меня щас наобманул чоль?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
-                                                                                                              "_content": "[LABEL Это не моя, это рабочая теха]"
+                                                                                                              "_content": "[LABEL Попроси кого другого]"
                                                                                                             }
                                                                                                           ],
-                                                                                                          "_mark": "mark_9h91no28mnrw2z3ove5j",
-                                                                                                          "_content": "[LABEL То есть ты меня щас обманул насчет техи?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                          "_mark": "mark_3507bm372k767s99jov3",
+                                                                                                          "_content": "[LABEL У меня заряд в ботву почти ушел.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "",
-                                                                                                      "_content": "[LABEL Попроси кого другого]"
+                                                                                                      "_content": "[LABEL На кой тебе моя, если своя теха есть?]"
                                                                                                     }
                                                                                                   ],
-                                                                                                  "_mark": "mark_3507bm372k767s99jov3",
-                                                                                                  "_content": "[LABEL У меня заряд в ботву ушел.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_mark": "gop1_if_call_i_take_mobile",
+                                                                                                  "_content": "[LABEL Если зазвонит, попрощаешься со своей техой за гнилой базар.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
-                                                                                              "_content": "[LABEL На кой тебе мой, если свой есть?]"
+                                                                                              "_content": "[LABEL Зачем?]"
                                                                                             },
                                                                                             {
                                                                                               "node": [
@@ -501,40 +513,72 @@
                                                                                                                 {
                                                                                                                   "node": [
                                                                                                                     {
+                                                                                                                      "node": [
+                                                                                                                        {
+                                                                                                                          "_mark": "mark_6j1232110i8u38w8s440",
+                                                                                                                          "_content": "[LABEL ][GOTO gop1_if_call_i_take_mobile]"
+                                                                                                                        }
+                                                                                                                      ],
+                                                                                                                      "_mark": "",
+                                                                                                                      "_content": "[LABEL Не позвонит]"
+                                                                                                                    }
+                                                                                                                  ],
+                                                                                                                  "_mark": "mark_03nzp7344blujx513gp9",
+                                                                                                                  "_content": "[LABEL Нехорошо получится, если те щас кто-то позвонит.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                }
+                                                                                                              ],
+                                                                                                              "_mark": "",
+                                                                                                              "_content": "[LABEL Да нет]"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "node": [
+                                                                                                                {
+                                                                                                                  "node": [
+                                                                                                                    {
+                                                                                                                      "node": [
+                                                                                                                        {
+                                                                                                                          "_mark": "mark_gkuk411r1zx01mt6ttf4",
+                                                                                                                          "_content": "[LABEL <Enter text here>]"
+                                                                                                                        }
+                                                                                                                      ],
                                                                                                                       "_mark": "",
                                                                                                                       "_content": "[LABEL <Enter text here>]"
                                                                                                                     }
                                                                                                                   ],
-                                                                                                                  "_mark": "mark_w842q1t9g39nn4z80t91",
+                                                                                                                  "_mark": "mark_e598475k3c52e2gtvlw6",
                                                                                                                   "_content": "[LABEL <Enter text here>]"
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
-                                                                                                              "_content": "[LABEL <Enter text here>]"
+                                                                                                              "_content": "[LABEL Говорю же - нет у меня техи]"
                                                                                                             }
                                                                                                           ],
                                                                                                           "_mark": "mark_f9cinp399559t57794m4",
-                                                                                                          "_content": "[LABEL Ты мне левый номер дал? Нехорошо будет, если тебе щас корефан позвонит!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                          "_content": "[LABEL А ты мне случаем не левый номер дал?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "",
-                                                                                                      "_content": "[LABEL >>>]"
+                                                                                                      "_content": "[LABEL ]"
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "mark_2n8385xpxt9um3cxx29w",
                                                                                                   "_content": "[LABEL <гоп звонит, никто не отвечает>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
-                                                                                              "_mark": "",
+                                                                                              "_mark": "hero_tell_invalid_mobile_no",
                                                                                               "_content": "[LABEL Скажу левый номер]"
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "mark_ba8d79226753p39zt2b8",
-                                                                                          "_content": "[LABEL Я тя щас наберу. Зазвонит, по-пацански попрощаешься со своей техой за гнилой базар.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Я тя щас наберу.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
                                                                                       "_content": "[LABEL На кой тебе мой номер?]"
+                                                                                    },
+                                                                                    {
+                                                                                      "_mark": "",
+                                                                                      "_content": "[LABEL ][GOTO hero_tell_invalid_mobile_no]"
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "mark_phjmelien0yjr51p40n3",
@@ -717,7 +761,7 @@
                                                                                                       "_content": "[LABEL Ну попробуй]"
                                                                                                     }
                                                                                                   ],
-                                                                                                  "_mark": "mark_s8625k7223osb95yjlm0",
+                                                                                                  "_mark": "gop1_show_trick1",
                                                                                                   "_content": "[LABEL Я те щас покажу, и ты сам решишь.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
@@ -734,7 +778,7 @@
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "mark_0yy1jlzp874qpud16svo",
-                                                                                  "_content": "[LABEL Я и сам пользуюсь постоянно.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                  "_content": "[LABEL Я сам пользуюсь постоянно.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                 }
                                                                               ],
                                                                               "_mark": "",
@@ -749,6 +793,12 @@
                                                                       "_content": "[LABEL Нет, не хочу]"
                                                                     },
                                                                     {
+                                                                      "node": [
+                                                                        {
+                                                                          "_mark": "mark_p922d2r436lrmx2k5erq",
+                                                                          "_content": "[LABEL ][GOTO gop1_show_trick1]"
+                                                                        }
+                                                                      ],
                                                                       "_mark": "",
                                                                       "_content": "[LABEL Какую?]"
                                                                     }
@@ -805,16 +855,16 @@
                                                                                                                                               "_content": "[LABEL Ну зови]"
                                                                                                                                             }
                                                                                                                                           ],
-                                                                                                                                          "_mark": "mark_e2201z1cunu3we1ruvit",
+                                                                                                                                          "_mark": "gop1_call_gops",
                                                                                                                                           "_content": "[LABEL Ты чо убогим прикинулся? Хошь, чтоб я пацанов позвал?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                         }
                                                                                                                                       ],
                                                                                                                                       "_mark": "",
-                                                                                                                                      "_content": "[LABEL Это мое бабло]"
+                                                                                                                                      "_content": "[LABEL Не буду]"
                                                                                                                                     }
                                                                                                                                   ],
                                                                                                                                   "_mark": "mark_x9dw9d0gk459iwz8h19a",
-                                                                                                                                  "_content": "[LABEL Слух, лады, давай сюды бабло и вали.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                  "_content": "[LABEL Слух, лады, выгребай все бабло и вали отсюда!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                 }
                                                                                                                               ],
                                                                                                                               "_mark": "",
@@ -903,12 +953,18 @@
                                                                                                 {
                                                                                                   "node": [
                                                                                                     {
+                                                                                                      "node": [
+                                                                                                        {
+                                                                                                          "_mark": "mark_53ru8qrul1a8561heuk2",
+                                                                                                          "_content": "[LABEL ][GOTO gop1_call_gops]"
+                                                                                                        }
+                                                                                                      ],
                                                                                                       "_mark": "",
-                                                                                                      "_content": "[LABEL <Enter text here>]"
+                                                                                                      "_content": "[LABEL Я не виноват]"
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "mark_272j07m9cu9t8502e3k5",
-                                                                                                  "_content": "[LABEL Ты чо на?! Новую мне покупай терь!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_content": "[LABEL Чо ты тут горбатого лепишь?! Новую мне покупай терь!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
@@ -957,14 +1013,6 @@
                                                       ],
                                                       "_mark": "",
                                                       "_content": "[LABEL Ну спрашивай]"
-                                                    },
-                                                    {
-                                                      "_mark": "",
-                                                      "_content": "[LABEL ][GOTO you_missed_me_with_smbdy]"
-                                                    },
-                                                    {
-                                                      "_mark": "",
-                                                      "_content": "[LABEL ][GOTO that_wasnt_me]"
                                                     }
                                                   ],
                                                   "_mark": "gop1_want_ask",
@@ -1141,22 +1189,18 @@
                                                 {
                                                   "node": [
                                                     {
-                                                      "_mark": "",
-                                                      "_content": "[LABEL ][GOTO fuck_you]"
-                                                    },
-                                                    {
-                                                      "_mark": "",
-                                                      "_content": "[LABEL ][GOTO fight1]"
-                                                    },
-                                                    {
                                                       "node": [
                                                         {
-                                                          "_mark": "mark_i700jr06jayvd70e8pzl",
-                                                          "_content": "[LABEL ][GOTO gop1_go_out_from_here]"
+                                                          "_mark": "mark_760vr73zjr20vs1dn5n7",
+                                                          "_content": "[LABEL ][GOTO gop1_ask_shake_hand]"
                                                         }
                                                       ],
                                                       "_mark": "",
                                                       "_content": "[LABEL А если так, то что?]"
+                                                    },
+                                                    {
+                                                      "_mark": "",
+                                                      "_content": "[LABEL ][GOTO hero_have_no_time]"
                                                     }
                                                   ],
                                                   "_mark": "mark_fm48s46c9ymm5j9wr31n",
@@ -1228,7 +1272,7 @@
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
-                                                                                                              "_content": "[LABEL Пшел на]"
+                                                                                                              "_content": "[LABEL Пшел вон]"
                                                                                                             },
                                                                                                             {
                                                                                                               "_mark": "",
@@ -1396,7 +1440,7 @@
                                                 }
                                               ],
                                               "_mark": "",
-                                              "_content": "[LABEL Здарова]"
+                                              "_content": "[LABEL Здарова, Сява]"
                                             },
                                             {
                                               "_mark": "",
