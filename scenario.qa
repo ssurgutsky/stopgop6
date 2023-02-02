@@ -10,39 +10,42 @@
 									Норм, а чо?
 										[gop1_want_ask]Да ничо. Спросить хотел.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											Ну спрашивай
-												[gop1_asks][GOTO gop1_story1,gop1_story2,gop1_story3,gop1_story4,gop1_story5,gop1_story6]
+												[gop1_asks][GOTO gop1_story1]
 													
-														[gop1_story1,EPISODE1]Опачки! Ты щас это видел?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+														[gop1_story1,EPISODE1]Опачки! Ты щас это видел?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Что видел?
 																[mark_gt2hrw48l4i7b4d8nr88][GOTO gop1_intro1,gop1_intro2,gop1_intro3]
 																	
-																		[gop1_intro1]Мент от бомжа убегает![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			Может мент украл чего
-																				[mark_7tlv1r5z0j3fbi2964o9]Ты чо не вкурил чоли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																		[gop1_intro1]Мент от бомжа убегает![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																			Украл мент что-то, раз убегает
+																				[mark_7tlv1r5z0j3fbi2964o9]Ты чо не вкурил чоли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Мне поровну
-																						[gop1_joke1]Да пошутил я, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																						[gop1_joke1]Да пошутил я, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																							
-																								[mark_236km4ik9218mpo3j3v0]Короче, тут такое дело...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																								[gop1_story_preview]Короче, тут такое дело...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																									
-																										[gop1_intro_end][GOTO gop1_story2,gop1_story3,gop1_story4,gop1_story5,gop1_story6]
+																										[gop1_intro_end][GOTO gop1_story2]
 																					Вкурил
-																						[mark_yx59ep0dl0piy4541g67]А чо тогда не смотришь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																						[mark_yx59ep0dl0piy4541g67]А чо тогда не смотришь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							Уже посмотрел
 																								[mark_vur856qvl7e1i6jpdxt2][GOTO gop1_joke1]
 																							[GOTO nothing_there]
 																			Где?
-																				[mark_x7htmp648x533n35gu2u]Да вон бежит, смотри![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																				[mark_x7htmp648x533n35gu2u]Да вон бежит, смотри![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[nothing_there]Не вижу никого
 																						[mark_9b95p35282lkplx5k7d7][GOTO mark_final8]
 																					Накурился и бежит
 																						[mark_l470c5951y1u6t1w2r02][GOTO gop1_joke1]
-																[gop1_intro2]Смотри, собака бежит, а ноги какие-то короткие...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																[gop1_intro2]Смотри, собака бежит, а ноги какие-то короткие...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Да нет, вроде до пола достают
 																		[mark_52526zkmxf23fi446442][GOTO mark_final8]
 																	Бывают такие
 																		[mark_479se2hjn9jvlx2a97r3][GOTO gop1_joke1]
-																[gop1_intro3]Баба голая бежит![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	<Enter text here>
+																[gop1_intro3]НЛО летит...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																	Нее, это кто-то окурок выбросил
+																		[mark_1vn93lfk3a635b6cq1ak][GOTO mark_final8]
+																	Тебе показалось
+																		[mark_2uej2ft0t5b66t2imaj0][GOTO gop1_joke1]
 															Нет, а что?
 																[mark_82418s5bjrpws86owdua][GOTO gop1_intro_end]
 														[gop1_story2,EPISODE2]Мужик шел, лопатник потерял, а в нем 5 косарей лежало, прикинь...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -55,7 +58,7 @@
 																					Я врать не буду
 																						[take_half_money]Эээ, слух, стопэ! Погоди, я тя понял. Косарь за молчание хошь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							Нет, не надо
-																								[mark_k381n2h5y4r2c37pw422]Эээ, ну ты жадюга! Лады, 2 косаря твои, и ты меня не видел![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																								[mark_k381n2h5y4r2c37pw422]Эээ, ну ты жадюга! Лады, 2 косаря твои, и ты ничо не знаешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																									Благодарю, не надо
 																										[gop1_how_much_for_vallet]Скоко ты за молчание хошь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																											[hero_no_need_dirty_vallet_money]Это чужие деньги
@@ -109,78 +112,88 @@
 																	[GOTO hero_give_1_vallet_money]
 															[GOTO hero_give_vallet_i_return]
 														[gop1_story3,EPISODE3]Седня узбеки колодец рыли, нашли кувшин со старинными монетами.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															Ну и что?
+															Я тут при чем?
 																[mark_66r718wjgh82m428v7un]Мне калдырь сказал, каждую по 3 косаря возьмет.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	А я тут при чем?
-																		[mark_d521dom5ma76i9f9dj3l]Я щас с узбеками чиста по-пацански договорился - можно у них 10 монет за 10 косарей всего выкупить.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			Ну так выкупай
-																				[mark_55fw5b2i6qu4movxem58]Да я выкуплю, но мне чуток не хватает... займи 3 косаря?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																					Нет, не могу
-																						[gop1_pot_return_2x]Ты чо, разбогатеть нахаляву не хошь чоли? Займи 3 косаря, я те в два раза больше верну![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																							Не мой вариант
-																								[mark_48h9djt06ss4m8866n97]Слух, мне надо успеть до вечера! Потом уйдут другому жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																									Нет у меня денег
-																										[mark_5i27d35im0p89kfhabv3]Ну а скоко есть? Я те прям сразу верну вдвойне.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																											Нисколько нет
-																												[mark_v8yta15985v8843mb5l9]Да не гони! Я же чую, что есть.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																													У меня совсем мало
-																														[mark_49j9k2z7de96vy67kp42]Лады, давай скоко есть. Я те через 5 мин в 2 раза больше отдам, отвечаю![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																															Это последние деньги
-																																[mark_j0898g15kflblf203h5i]Лады, в 3 раза больше верну, токо давай быстрее![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																	[hero_pot_money_if_not_return]А если не вернешь?
-																																		[mark_k1ebh33c6b159v5yzie1]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																			Я на слово не верю
-																																				[gop1_pot_wanna_mobile]Ну хошь, я те мобильник в залог оставлю?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					Какой мобильник? Покажи
-																																						[mark_q6erk1ry56ck97701uf6]Вот, смотри. Я у жигурды за 5 косарей брал. Ваще он новый 10 стоит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																							В 4 раза больше вернешь, согласен?
-																																								[mark_p53m7gv75k6u948ytd5k]Ай, братан! Ты не оставил мне выбора...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																									
-																																										[gop1_pot_take_mobile]Держи, братан. Давай деньги.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																											>>>
-																																												[mark_24p36yjb6tnxzyd8xbbn]<Гоп отдает мобилу>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
-																																													
-																																														[gop1_pot_take_money]<Гоп берет деньги>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
+																	Ну и что?
+																		[gop1_pot_10_10]Я щас с узбеками чиста по-пацански договорился, 10 монет всего за 10 косарей взять.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																			
+																				[gop1_pot_20]... это 20 косарей чистого навара, прикинь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																					Ну так бери
+																						[mark_55fw5b2i6qu4movxem58]Да я возьму, но мне чуток не хватает... займи 3 косаря?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																							Нет, не могу
+																								[gop1_pot_return_2x]Ты чо, разбогатеть не хошь? Займи 3 косаря, я те в два раза больше верну![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																									Не мой вариант
+																										[mark_48h9djt06ss4m8866n97]Слух, мне надо успеть до вечера! Потом уйдут другому жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																											Нет у меня денег
+																												[mark_5i27d35im0p89kfhabv3]Ну а скоко есть? Я те прям сразу верну вдвойне.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																													Нисколько нет
+																														[mark_v8yta15985v8843mb5l9]Да не гони! Я же чую, что есть.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																															У меня совсем мало
+																																[mark_49j9k2z7de96vy67kp42]Лады, давай скоко есть. Я те через 5 мин в 2 раза больше отдам, отвечаю![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																	Это последние деньги
+																																		[mark_j0898g15kflblf203h5i]Лады, в 3 раза больше верну, токо давай быстрее![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																			[hero_pot_money_if_not_return]А если не вернешь?
+																																				[mark_k1ebh33c6b159v5yzie1]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																					Я на слово не верю
+																																						[gop1_pot_wanna_mobile]Ну хошь, я те мобильник в залог оставлю?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																							Какой мобильник? Покажи
+																																								[mark_q6erk1ry56ck97701uf6]Вот, смотри. Я у жигурды за 5 косарей брал. Ваще он новый 10 стоит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																									В 4 раза больше вернешь, согласен?
+																																										[mark_p53m7gv75k6u948ytd5k]Ай, братан! Ты не оставил мне выбора...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																											
+																																												[gop1_pot_take_mobile]Держи, братан. Давай деньги.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																													>>>
+																																														[mark_24p36yjb6tnxzyd8xbbn]<Гоп отдает мобилу>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
 																																															
-																																																[mark_ldlm8pyrz8639d941t7k]Жди здесь, я быстро![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																																[gop1_pot_take_money]<Гоп берет деньги>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
 																																																	
-																																																		[mark_22ucr174d7875she0j94]<гоп убегает>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																			>>>
-																																																				[mark_35p51p2yrz766f9z16u2]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																					Я у тебя ничего не брал
-																																																						[mark_3436q740o2qc8zhth3ga]Тебе пацан сейчас мой украденный телефон передал! Я все видел![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																							Ничего он мне не давал
-																																																								[mark_08j13t5v26oc429l360r]На нем твои отпечатки. Отдай по-хорошему или я ментов вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																									Придется отдать
-																																																										[mark_iy7tq01s9d9e373sq12g][GOTO ???]
-																																							Ладно, давай
-																																								[mark_kk269qo0c786770f64a0][GOTO gop1_pot_take_mobile]
-																																			А она у тебя есть?
-																																				[mark_ld0deu8g177w0bm6c0i2]Лады, я тя понял, братан. Если занимать не хошь, то...[VIDEO fight2_gop2_idle.mp4][AUDIO silent_1]
-																																					
-																																						[mark_akgm634s71ku7x74q9w2][GOTO gop1_story4]
-																																	[hero_pot_can_give_1]Косарь могу дать
-																																		[mark_afmeq8t0ls303c56y2p3][GOTO gop1_pot_take_money]
-																																	[hero_pot_can_give_2]2 косаря могу дать
-																																		[mark_126kl9ihnz45c681yaa6][GOTO gop1_pot_take_money]
-																															[hero_pot_dark_deal]Сомнительное дело
-																																[mark_883ff0h082xzhi88un45][GOTO gop1_pot_wanna_mobile]
-																													[hero_pot_i_go]Я лучше пойду
-																														[mark_ss9ce8dbe148803ha01l]Да погоди ты, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																															
-																																[mark_f2s6068mk76py4f0p61f][GOTO gop1_story4,gop1_story11]
+																																																		[mark_ldlm8pyrz8639d941t7k]Жди здесь, я быстро![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																																			
+																																																				[mark_22ucr174d7875she0j94]<гоп убегает>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																					>>>
+																																																						[mark_35p51p2yrz766f9z16u2]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																							Я у тебя ничего не брал
+																																																								[gop2_pot_my_mobile]Тебе пацан сейчас мой украденный телефон передал. Я все видел![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																									Ничего он мне не давал
+																																																										[mark_08j13t5v26oc429l360r]На нем твои отпечатки. Отдай по-хорошему или я ментов вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																											[hero_pot_will_give_mobile_back]Придется отдать
+																																																												[mark_iy7tq01s9d9e373sq12g][GOTO mark_final11]
+																																																									[GOTO hero_pot_will_give_mobile_back]
+																																																							Какая вещь?
+																																																								[mark_gyuou3grbsdgnv26xy95][GOTO gop2_pot_my_mobile]
+																																									Ладно, давай
+																																										[mark_kk269qo0c786770f64a0][GOTO gop1_pot_take_mobile]
+																																					А она у тебя есть?
+																																						[mark_ld0deu8g177w0bm6c0i2]Лады, я тя понял, братан.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																							
+																																								[gop1_pot_if_dont_want_give]Если не хошь занимать, то...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																									
+																																										[mark_akgm634s71ku7x74q9w2][GOTO gop1_story4]
+																																			[hero_pot_can_give_1]Косарь могу дать
+																																				[mark_afmeq8t0ls303c56y2p3][GOTO gop1_pot_take_money]
+																																			[hero_pot_can_give_2]2 косаря могу дать
+																																				[mark_126kl9ihnz45c681yaa6][GOTO gop1_pot_take_money]
+																																	[hero_pot_dark_deal]Сомнительное дело
+																																		[mark_883ff0h082xzhi88un45][GOTO gop1_pot_wanna_mobile]
+																															[hero_pot_i_go2]Я лучше пойду
+																																[mark_ss9ce8dbe148803ha01l]Да погоди ты, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																	
+																																		[mark_lp88gl66g4b75l1828em][GOTO gop1_pot_if_dont_want_give]
+																															[GOTO hero_pot_can_give_1]
 																													[GOTO hero_pot_can_give_1]
-																											[GOTO hero_pot_can_give_1]
-																									[GOTO hero_pot_dark_deal]
-																							[GOTO hero_pot_money_if_not_return]
+																											[GOTO hero_pot_dark_deal]
+																									[GOTO hero_pot_money_if_not_return]
+																									[GOTO hero_pot_can_give_1]
 																							[GOTO hero_pot_can_give_1]
-																					[GOTO hero_pot_can_give_1]
-																					[GOTO hero_pot_can_give_2]
-																			Денег не дам
-																				[mark_759d6091ke95x38p719l]Да ты не понял, братуха...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																					
-																						[mark_70x5id4h6n0nij1872j2][GOTO gop1_pot_return_2x]
-																	[GOTO hero_pot_i_go]
+																							[GOTO hero_pot_can_give_2]
+																					Денег не дам
+																						[mark_759d6091ke95x38p719l]Да ты не понял, братуха...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																							
+																								[mark_70x5id4h6n0nij1872j2][GOTO gop1_pot_return_2x]
+																	[hero_pot_i_go]Я лучше пойду
+																		[mark_innkv26sa3r2402l8w1o]Да погоди ты, братуха, дослушай![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																			
+																				[mark_zo0gn77c5b173wu2df1q][GOTO gop1_pot_10_10]
 															[GOTO hero_pot_i_go]
 														[gop1_story4,EPISODE4]Давай я те идею-бизнес за недорого продам.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Нет, не хочу
@@ -193,11 +206,11 @@
 																						[gop1_cash_show_trick]Я те щас покажу, и ты сам решишь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							[gop1_cash_lets_try]Ну попробуй
 																								[mark_v0enu438am1j2151tl7z]Короче, к номеру на купюре, дописываешь код оператора... ну там 8-900...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																									>>>
+																									Дальше
 																										[mark_4gze2556h09hs9msp5ax]Звонишь по этому номеру и говоришь чуваку, что нашел купюру с его номером...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																											>>>
+																											Дальше
 																												[mark_ay00foyzj8w00066j3h9]Пока чувак соображает, предлагаешь выкупить купюру... в 2-3 раза дороже.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																													>>>
+																													Дальше
 																														[mark_2x600z05u2t6059n25b6]Ну как тебе тема?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															Я что-то сомневаюсь
 																																[mark_3600y678q8fu70g8dwn1]Я на этой теме легко пару косарей поднимаю. Скажешь, не нормальная тема?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -258,7 +271,7 @@
 																[mark_t89g57do2o68c041jb8k]Ты не поверишь, но очень выгодную.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																	
 																		[mark_p922d2r436lrmx2k5erq][GOTO gop1_uses_cash_trick]
-														[gop1_story5]Слух, ты этого калдыря знаешь?<гоп показывает ч/б фотографию>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+														[gop1_story5,EPISODE5]Слух, ты этого калдыря знаешь?<гоп показывает ч/б фотографию>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Нет, не знаю
 																[mark_s56q4p6d1mbfeucuyb3h]Да не гони! Его полгорода знает.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Я из другой половины
@@ -299,7 +312,7 @@
 																																																				[mark_gzf05jh5o8ak9790ua75]Ну на смори.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																					Это заставка с трещинами!
 																																																						[mark_zj7xr31m1ql2xo4u9jjj]Чо, самый умный чоли? Давай вали отсюда![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																							Я сам ухожу
+																																																							Нет, просто я в симулятор гопника играю
 																																																								[mark_9475q469094f298mgg15]главный финал
 																																											Пошли
 																																												[mark_4088p6nswd7ktl6505c2][GOTO mark_final13]
@@ -316,7 +329,7 @@
 																		[mark_gn91ugjtcwz0140284x3][GOTO gop1_mobile_prison]
 																	Видел где-то
 																		[mark_55u62ujsmm052fzwo304][GOTO gop1_mobile_prison]
-														[gop1_story6]Слух, выручи, дай мобилу, корешу звонок сделать.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+														[gop1_story6]Слух, дай мобилу, корешу звонок сделать.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															У меня нет
 																[mark_z6dx3tm4d7va5166jx61]Да не кисли! Давай проверим?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Ну попробуй
@@ -329,9 +342,9 @@
 																								[mark_3507bm372k767s99jov3]У меня заряд в ботву ушел.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																									Попроси кого другого
 																										[mark_9h91no28mnrw2z3ove5j]Погодь! То есть у тя все таки есть мобила? Ты меня щас набманул чоль?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																											Это не моя, это рабочая теха
+																											Это не моя, это рабочая мобила
 																												[mark_f9817xa77595fom63bl7]Ну ты жук. Лады, тоды позвони сам жигурде. Я скажу номер.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																													Достать теху
+																													Достать мобилу
 																														[mark_f9817xa77595fom63bl7]8... 900... забыл! Дай сам наберу.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															Нет
 																																[mark_3cs3rw6mq042z2xha1l7]Все вспомнил! Набирай. Скажешь, что Сява вечером долг вернет.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -397,38 +410,37 @@
 															<Enter text here>
 														[gop1_story13]Стопэ! Вчера у жигурды мобилу утянули. По описанию пацан на тебя был похож. Ну-ка закежь свою мобилу?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									А тебе не все ли равно?
-										[mark_3uu3073rd03979909520]Точняк! Мы с тобой недавно в клубешнике бухали. Там еще Кирпич был.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_drink_in_club2.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-											Да, я помню
-												[mark_jn3vj69t1bzm9fu06419][GOTO you_took_1000_from_gop2]
-											[GOTO who_is_kirpich]
-									Спроси другого жигурду
-										[mark_773c02iq32gmoe1n64s3]Не, Червлей чуток позже подтянется.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_about_chervley.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-											[GOTO gop1_name_hryash]
-											[GOTO gop1_name_vasyan]
-							Отвали
-								[mark_c422v4x76q2zw33ak9q4]Братан, ты чо своим же пацанам борзишь то?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-									Я с тобой косяк не кумарил, чтоб ты своим был
-										[mark_s7lyaorot7c689hpj42d]Так давай раскумарим![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-											А у тебя есть?
-												[mark_z16p008j9sucnz47g269]Имеется.<гоп достает сигу>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-													Хорошая трава?
-														[mark_7m1c401s48k1hc58yz71]Тя точно взорвет! Ыыыы...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															[hero_give_me_smoke]Давай я раскумарю
-																[mark_vo9128767toi6xz787di]Ну давай.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Погоди, тут же люди ходят!
-																		[mark_wyk03h7emzagq20035kp]Лады пошли за угол...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			>>>
-																				[mark_2kyxc630723q6gx7oi40][GOTO mark_final2]
-																	Раскумарю
-																		[mark_yar2zvk62v5yxx8gyr50][GOTO mark_final7]
-													[GOTO hero_give_me_smoke]
-											[GOTO hero_have_no_time]
-									[GOTO hero_go_hell_gop1]
+										[mark_562q9e2p6muma3wsgaq8]Братан, ты чо та какой то напряженный. Обидел кто?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+											[hero_intro_go_away]Отвали
+												[mark_c422v4x76q2zw33ak9q4]Братан, ты чо мне, нормальному пацану, борзишь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+													Нормальному? Я с тобой косяк не кумарил, не знаю
+														[mark_s7lyaorot7c689hpj42d]Так давай раскумарим![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															А у тебя есть?
+																[mark_z16p008j9sucnz47g269]Имеется.<гоп достает сигу>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																	Хорошая трава?
+																		[mark_7m1c401s48k1hc58yz71]Тя точно взорвет! Ыыыы...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																			[hero_give_me_smoke]Давай я раскумарю
+																				[mark_vo9128767toi6xz787di]Ну давай.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																					Погоди, тут же люди ходят!
+																						[mark_wyk03h7emzagq20035kp]Лады пошли за угол...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																							>>>
+																								[mark_2kyxc630723q6gx7oi40][GOTO mark_final2]
+																					Раскумарю
+																						[mark_yar2zvk62v5yxx8gyr50][GOTO mark_final7]
+																	[GOTO hero_give_me_smoke]
+															[GOTO hero_have_no_time]
+															[GOTO hero_greetings_what_you_want]
+													[GOTO hero_go_hell_gop1]
+											Дела не очень
+												[mark_t96hr07gd6o6h58r160t]Так это ты удачно меня щас встретил![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+													
+														[mark_j71i21op7xix92aka6mn][GOTO gop1_story_preview]
+											[GOTO hero_greetings_what_you_want]
 							Я тебя не знаю
 								[mark_w9tu18dxm8d74cl0g531]Ну дык, давай познакомимся, я - Сява, а ты кто?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_say_hello.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									Здарова, Сява
 										[mark_86kxta9k619komz99d2l]<гоп тянет руку поздароваться>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-											Чего хотел то?
+											[hero_greetings_what_you_want]Чего хотел то?
 												[mark_5fatn2vqe105kph85844]А тя чо, руку жать не учили, када здароваешься?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 													Обойдемся без этого
 														[gop1_ask_shake_hand]Слух, я к те по-пацански подкатил, клешнями потрясти. А ты мне понты строишь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -449,7 +461,7 @@
 																											[hero_asks_gop_calm_what_want]Ладно, успокойся, чего хотел?
 																												[mark_6128jyvz6m2c50bmg1l6][GOTO gop1_want_ask]
 																									[GOTO hero_asks_gop_calm_what_want]
-																							[hero_asks_gop_what_want]Ну ладно, чо хотел то?
+																							[hero_asks_gop_what_want]Ладно, чо хотел то?
 																								[mark_3v1j4eodvft23hx85g00][GOTO gop1_want_ask]
 																					Ладно, только быстрее
 																						[mark_042dd7plq1phx6m2t0c4][GOTO gop1_asks]
@@ -474,7 +486,9 @@
 											Ничего
 												[mark_760vr73zjr20vs1dn5n7][GOTO gop1_ask_shake_hand]
 											[GOTO hero_have_no_time]
+											[GOTO hero_greetings_what_you_want]
 									[GOTO hero_shake_gop_hand]
+							[GOTO hero_intro_go_away]
 			[donate]На развитие проекта (sobe.ru/na/serjios)
 				[mark_25niz708033n4z3a88td][NAVIGATEURL https://sobe.ru/na/serjios]
 					
@@ -489,257 +503,12 @@
 						[mark_q2nd78cyrc83r906j165][GOTO PREPARE]
 		[fight2]Хрящ, отчапай в сторонку.[VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_gop1_go_aside.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10][MUSIC music_fight2.mp3]
 			>>>
-				[fight2_s1]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-					Уклон вниз
-						[mark_3ymq3bu7i99cg6xg9k0x]...[VIDEO fight2_gop2_hit1_p2_up.mp4][SOUNDFX swoosh.mp3]
-							
-								[fight2_s2]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-									Уклон вниз
-										[mark_628akmlqd684e62cw590]...[VIDEO fight2_gop2_hit2_p2_up.mp4][SOUNDFX swoosh.mp3]
-											
-												[fight2_s3]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-													Уход влево
-														[mark_z990l011pbcabjt9j8v3]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-															
-																[fight2_s4]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																	Уход вправо
-																		[mark_yc3qxa6j9y2261b37n48]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																			
-																				[fight2_s5]...[BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
-																					Удар левой
-																						[mark_njqf328li6lrd89o86a0]...[VIDEO fight2_gop2_lblock.mp4][SOUNDFX boom.mp3]
-																							
-																								[fight2_s6]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-																									Уход влево + удар левой
-																										[mark_kguo1693t38m42js30dv]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-																											
-																												[mark_shmev18jb0jy39436640]...[VIDEO fight2_gop2_lblock.mp4][SOUNDFX boom.mp3]
-																													
-																														[fight2_s7]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																															Уход вправо + удар правой
-																																[mark_2f0545s810iu4462zssh]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																	
-																																		[mark_g6yjf9z679s8ox7ni3rg]...[VIDEO fight2_gop2_rblock.mp4][SOUNDFX boom.mp3]
-																																			
-																																				[fight2_s8]...[BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																					Удар левой
-																																						[mark_387e4755bar96um30rcq]...[VIDEO fight2_gop2_lblock.mp4][SOUNDFX boom.mp3]
-																																							
-																																								[fight2_s9]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																									Уход влево
-																																										[mark_w21w7465d97fs05r24qx]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-																																											
-																																												[mark_t5240u2p8y07ol6879cd]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																													Уход вправо
-																																														[mark_0gz80e6u4s2693pr6c55]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																															
-																																																[fight2_s10]...[BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																	Удар левой
-																																																		[mark_534i3ig7xq49q6muy14u]...[VIDEO fight2_gop2_lblock.mp4][SOUNDFX boom.mp3]
-																																																			
-																																																				[fight2_s11]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																					Уход вправо
-																																																						[mark_a5bg5bx8k24db7420io0]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																																							
-																																																								[fight2_s12]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																									Уход вправо
-																																																										[mark_d01fng0899o0595zfc2c]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																																											
-																																																												[fight2_s13]...[BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																													Удар левой
-																																																														[mark_00g5db3dbp7jd8j0q300]...[VIDEO fight2_gop2_lblock.mp4][SOUNDFX boom.mp3]
-																																																															
-																																																																[fight2_s14]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																																	Уклон вниз + апперкот
-																																																																		[mark_4jh4k12xpv0n07g4wg5t]...[VIDEO fight2_gop2_hit1_p2_uppercote.mp4][SOUNDFX boom.mp3,hit_slowmo.mp3]
-																																																																			
-																																																																				[mark_9ymn7jkoo73p7u6vsnfu]...[VIDEO fight2_gop2_loose.mp4]
-																																																																					
-																																																																						[mark_89p90i8d9e9era7c7r67][IMAGE black][BGNDIMAGE *][AUDIO silent_2]
-																																																																							
-																																																																								[mark_71f45c34i7h2n64h3ckc]...[BGNDVIDEO fight2_gop2_fail_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																																									Удар правой
-																																																																										[mark_499q07262u717jej6ii4]...[VIDEO fight2_gop2_rblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																											
-																																																																												[fight2_s15]...[BGNDVIDEO fight2_gop2_fail_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																																													Удар правой
-																																																																														[mark_57470u4267f3g8d2f5x0]...[VIDEO fight2_gop2_rblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																															
-																																																																																[fight2_s16]...[VIDEO fight2_gop2_fail_idle.mp4][AUDIO silent_3]
-																																																																																	
-																																																																																		[fight2_s17]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																																																			Уход влево + удар левой
-																																																																																				[mark_99fj10217e0jw59pj5et]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-																																																																																					
-																																																																																						[mark_5tx6bs5s67ad239f1lvz]...[VIDEO fight2_gop2_lblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																																							
-																																																																																								[fight2_s18]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																																																									Уход вправо + удар справа
-																																																																																										[mark_r37417qt7zgcvk4s9467]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																																																																											
-																																																																																												[mark_h7bncy73105u99zimul5]...[VIDEO fight2_gop2_rblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																																													
-																																																																																														[fight2_s19]...[VIDEO fight2_gop2_fail2_idle.mp4][AUDIO silent_3]
-																																																																																															
-																																																																																																[fight2_s20]...[BGNDVIDEO fight2_gop2_fail2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																																																																	Удар правой
-																																																																																																		[mark_4yowmxph55rhs22pq9dc]...[VIDEO fight2_gop2_rfail.mp4][SOUNDFX boom.mp3]
-																																																																																																			
-																																																																																																				[fight2_s21]...[BGNDVIDEO fight2_gop2_fail2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																																																																					Удар правой
-																																																																																																						[mark_71781jo6d4whc4d24dm5]...[VIDEO fight2_gop2_rfail.mp4][SOUNDFX boom.mp3]
-																																																																																																							
-																																																																																																								[fight2_s22]...[BGNDVIDEO fight2_gop2_fail2_idle.mp4][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																																																																									Удар правой
-																																																																																																										[mark_i9412yu1m7k9fsj552ek]...[VIDEO fight2_gop2_rfail.mp4][SOUNDFX boom.mp3]
-																																																																																																											
-																																																																																																												[fight2_s23]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																																																																													Уход влево
-																																																																																																														[mark_58903y78430rnz27y4n0]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-																																																																																																															
-																																																																																																																[fight2_s24]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																																																																																	Уход вправо + удар справа
-																																																																																																																		[mark_413qj1337d597y3pepug]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																																																																																																			
-																																																																																																																				[mark_32fki9m31557a7nr2yoo]...[VIDEO fight2_gop2_rblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																																																																					
-																																																																																																																						[fight2_s25]...[BGNDVIDEO fight2_gop2_hit1_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-																																																																																																																							Уклон вниз + апперкот
-																																																																																																																								[mark_85k189s560v2eey251ir]...[VIDEO fight2_gop2_hit1_p2_uppercote.mp4][SOUNDFX boom.mp3,hit_slowmo.mp3]
-																																																																																																																									
-																																																																																																																										[mark_ek0kb88mbd13l3b789m8]...[VIDEO fight2_gop2_loose.mp4]
-																																																																																																																											
-																																																																																																																												[mark_j881u01ndg741m90fyyj]...[VIDEO gops1_gop1_run_away.mp4][SOUNDFX gop1_aaa.mp3]
-																																																																																																																													
-																																																																																																																														[mark_qw06e494x004p09458fb][GOTO mark_final18]
-																																																																																																																	Уход влево + удар левой
-																																																																																																																		[mark_185776u71624v9w5w3i7][GOTO fight2_gop2_hits_lhead]
-																																																																																																													Уклон вниз
-																																																																																																														[mark_msjnu231zh8e8v2382d2]Четко в пятак![VIDEO fight2_gop2_hit1_p2_kick.mp4][SOUNDFX boom.mp3]
-																																																																																																															
-																																																																																																																[mark_29riro5zv736v1bt3iv1][GOTO mark_final17]
-																																																																																																													Уход вправо + удар справа
-																																																																																																														[mark_z6ewlw7t84mjxuqc0n3k][GOTO fight2_gop2_hits_rhead]
-																																																																																																									Удар левой
-																																																																																																										[mark_l83yfq95172jtkpeqh3r]...[VIDEO fight2_gop2_lfail.mp4][SOUNDFX boom.mp3]
-																																																																																																											
-																																																																																																												[mark_6z19m5u7eu4y53k8h422][GOTO fight2_s23]
-																																																																																																					Удар левой
-																																																																																																						[mark_ub6518iw42c1s7523p0u]...[VIDEO fight2_gop2_lfail.mp4][SOUNDFX boom.mp3]
-																																																																																																							
-																																																																																																								[mark_815ud94q55ffc94980m2][GOTO fight2_s22]
-																																																																																																	Удар левой
-																																																																																																		[mark_dc4hc69b6eb353ly7vm5]...[VIDEO fight2_gop2_lfail.mp4][SOUNDFX boom.mp3]
-																																																																																																			
-																																																																																																				[mark_4l67b7k811s8ck8vm95m][GOTO fight2_s21]
-																																																																																									Защита блоком
-																																																																																										[mark_301m049j52a68hu1rh6q]...[VIDEO fight2_gop2_hit2_p2_rblock.mp4][SOUNDFX boom.mp3]
-																																																																																											
-																																																																																												[mark_csu87qhgjt48byd0t0z5][GOTO fight2_s19]
-																																																																																									Уход влево
-																																																																																										[mark_kbm552ti3f92y70rt27w][GOTO fight2_gop2_hits_lhead]
-																																																																																			Защита блоком
-																																																																																				[mark_55376402lo5hq85m6f8m]...[VIDEO fight2_gop2_hit1_p2_lblock.mp4][SOUNDFX boom.mp3]
-																																																																																					
-																																																																																						[mark_37pj6wv8f7j44c6f959y][GOTO fight2_s18]
-																																																																																			Уход вправо
-																																																																																				[mark_l5lfik3pp31enk5l99f4][GOTO fight2_gop2_hits_rhead]
-																																																																													Удар левой
-																																																																														[mark_pb170moe4t0l4lq6ui48]...[VIDEO fight2_gop2_lblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																															
-																																																																																[mark_p97l1505q4j306100536][GOTO fight2_s16]
-																																																																									Удар левой
-																																																																										[mark_uk444urt25n02o48lt8a]...[VIDEO fight2_gop2_lblock_hard.mp4][SOUNDFX boom.mp3]
-																																																																											
-																																																																												[mark_jnzz1z150i1z65j5155a][GOTO fight2_s15]
-																																																																	Уход влево
-																																																																		[mark_4xuy5yz6861mcbxuv7b8]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-																																																																			
-																																																																				[mark_j5544wuh7e3z1kqe99t3]...[BGNDVIDEO fight2_gop2_hit2_p1.mp4][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																																																																					Уход вправо
-																																																																						[mark_m029s2zi3i3m63262a9o]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-																																																																							
-																																																																								[mark_2zs8534b3jw05er21tn5][GOTO fight2_s14]
-																																																																					Защита блоком
-																																																																						[mark_86a7c219g59bn7858en3][GOTO fight2_gop2_hit2_bblock]
-																																																																					Уход влево
-																																																																						[mark_wfp17ho88k3p5dp6b0b2][GOTO fight2_gop2_hits_lhead]
-																																																																	Защита блоком
-																																																																		[mark_y9j5884d912t86t553bs][GOTO fight2_gop2_hit1_bblock]
-																																																																	Уход вправо
-																																																																		[mark_vjfm0c8f442948n5szq4][GOTO fight2_gop2_hits_rhead]
-																																																													Удар правой
-																																																														[mark_aa41s5to997jzxirl39d]...[VIDEO fight2_gop2_rblock.mp4][SOUNDFX boom.mp3]
-																																																															
-																																																																[mark_6xhl4gj377lvl411v52j][GOTO fight2_s14]
-																																																									Защита блоком
-																																																										[mark_605ejp170905625di875][GOTO fight2_gop2_hit2_bblock]
-																																																									Уход влево
-																																																										[mark_23724t5w5ei6nf94k8i0][GOTO fight2_gop2_hits_lhead]
-																																																					Защита блоком
-																																																						[mark_24ee48z74vdo02d9fyqr][GOTO fight2_gop2_hit2_bblock]
-																																																					Уход влево
-																																																						[mark_4vsfc32wa6204p3jiz3m][GOTO fight2_gop2_hits_lhead]
-																																																	Удар правой
-																																																		[mark_00p1p3sc9ci8uk4223at]...[VIDEO fight2_gop2_rblock.mp4][SOUNDFX boom.mp3]
-																																																			
-																																																				[mark_v53l9z08857b71p93441][GOTO fight2_s11]
-																																													Уход влево
-																																														[mark_n0ke768ba726sxp2437c][GOTO fight2_gop2_hits_lhead]
-																																													Защита блоком
-																																														[fight2_gop2_hit2_bblock]Пробил твой блок![VIDEO fight2_gop2_hit2_p2_bblock.mp4][SOUNDFX boom.mp3]
-																																															
-																																																[mark_06h9on8c5vp4n1vslp4f][GOTO mark_final17]
-																																									Уход вправо
-																																										[mark_6y534wq3g5011hi05w3x][GOTO fight2_gop2_hits_rhead]
-																																									Защита блоком
-																																										[fight2_gop2_hit1_bblock]Пробил твой блок![VIDEO fight2_gop2_hit1_p2_bblock.mp4][SOUNDFX boom.mp3]
-																																											
-																																												[mark_1664mbsw3tb77dac5441][GOTO mark_final17]
-																																					Удар правой
-																																						[mark_x03r1is3me8r3l9n4au8]...[VIDEO fight2_gop2_rblock.mp4][SOUNDFX boom.mp3]
-																																							
-																																								[mark_vad3wg0pyodr755k0553][GOTO fight2_s9]
-																															Уход влево
-																																[mark_e9q1076969tdzpyp82o5][GOTO fight2_gop2_hits_lhead]
-																									Уход вправо
-																										[mark_45r4hsfe494o4sc7rrc0][GOTO fight2_gop2_hits_rhead]
-																					Удар правой
-																						[mark_zxig4237lt02hxt77a7j]...[VIDEO fight2_gop2_rblock.mp4][SOUNDFX boom.mp3]
-																							
-																								[mark_d1uo84k30hv9afx2nkw5][GOTO fight2_s6]
-																	Уклон вниз
-																		[fight2_low_kick]Четко в пятак![VIDEO fight2_gop2_hit1_p2_kick.mp4][SOUNDFX boom.mp3]
-																			
-																				[mark_50kpngj3gg23zh01t87g][GOTO mark_final17]
-																	Уход влево
-																		[mark_d6nplp763m68e0prxk96][GOTO fight2_gop2_hits_lhead]
-													Уклон вниз
-														[mark_y1dy90o23vr67xipk561][GOTO fight2_low_kick]
-													Уход вправо
-														[mark_cs6ga895j64gae407129][GOTO fight2_gop2_hits_rhead]
-									Уход вправо
-										[mark_e6wl2nlm5065w8zg9685]...[VIDEO fight2_gop2_hit2_p2_rhit.mp4][SOUNDFX swoosh.mp3]
-											
-												[mark_dnactncwb7qxcqq57p8f][GOTO fight2_s3]
-									Уход влево
-										[fight2_gop2_hits_lhead]Попал четко под удар![VIDEO fight2_gop2_hit2_p2_hhead.mp4][SOUNDFX boom.mp3]
-											
-												[mark_wy9szzqyc85000oi0950][GOTO mark_final17]
-					Уход влево
-						[mark_4znj2lh334723ap9b71i]...[VIDEO fight2_gop2_hit1_p2_lhit.mp4][SOUNDFX swoosh.mp3]
-							
-								[mark_x1yb4uu4i5kx076i35de][GOTO fight2_s2]
-					Уход вправо
-						[fight2_gop2_hits_rhead]Попал четко под удар![VIDEO fight2_gop2_hit1_p2_hhead.mp4][SOUNDFX boom.mp3]
-							
-								[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
-		[mark_final1]Ты избавился от гопов с помощью пургеновой колбасы! Несколько дней они не слазили с горшка, а ты за это время сменил имидж и больше той дорогой не ходил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final1]Ты избавился от гопов. Главный положительный финал![BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final2]...[IMAGE black.jpg][AUDIO silent_1]
 			
-				[mark_at5uuvh5r2wb2e059z1p]За углом тебя ждали кореша гопа. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
+				[mark_at5uuvh5r2wb2e059z1p]За углом тебя ждали кореша гопа, отобрали все вещи и деньги. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
 					[GOTO ddonate]
 		[mark_final3]С твоего телефона списали все деньги, это была платная услуга. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.mp4]
@@ -761,7 +530,7 @@
 				[mark_ys4ra2l5wdz170aas8x9]Гоп прикурил тебе петарду. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final8]Гоп отвлек твое внимание и стукнул тебе в жбан. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
+		[mark_final8]Гоп отвлек твое внимание и завинтил тебе в тыкву. Отташил с корешом за угол и обшмонал по полной. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final9]Гоп стукнул тебе в жбан. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
@@ -782,7 +551,7 @@
 		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final13]Тебе пришлось возмещать ущерб. Отрицательный финал.[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
+		[mark_final13]Тебя отпинали в подворотне и пришлось возмещать ущерб. Отрицательный финал.[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final14]Ты сумел найти уязвимое место Кирпича. Положительный финал (но можно лучше)[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
