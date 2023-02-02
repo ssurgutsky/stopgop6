@@ -17,7 +17,7 @@
 																[mark_gt2hrw48l4i7b4d8nr88][GOTO gop1_intro1,gop1_intro2,gop1_intro3]
 																	
 																		[gop1_intro1]Мент от бомжа убегает![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			Украл мент что-то, раз убегает
+																			Мент украл у бомжа что-то, раз убегает
 																				[mark_7tlv1r5z0j3fbi2964o9]Ты чо не вкурил чоли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Мне поровну
 																						[gop1_joke1]Да пошутил я, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
@@ -42,16 +42,16 @@
 																	Бывают такие
 																		[mark_479se2hjn9jvlx2a97r3][GOTO gop1_joke1]
 																[gop1_intro3]НЛО летит...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Нее, это кто-то окурок выбросил
+																	Нее, это кто-то окурок из окна выбросил
 																		[mark_1vn93lfk3a635b6cq1ak][GOTO mark_final8]
 																	Тебе показалось
 																		[mark_2uej2ft0t5b66t2imaj0][GOTO gop1_joke1]
 															Нет, а что?
 																[mark_82418s5bjrpws86owdua][GOTO gop1_intro_end]
 														[gop1_story2,EPISODE2]Мужик шел, лопатник потерял, а в нем 5 косарей лежало, прикинь...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															А я тут при чем?
+															А мне то что?
 																[mark_367x901kv5ua4q2tu055]Если он щас сюда вернется, ты молчи, понял?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Надо догнать, вернуть
+																	Лучше вернуть
 																		[mark_9f1fc4o80cn84su84dmi]Ты чо базаришь? Мне 5 косарей не лишние![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Так нельзя
 																				[mark_ru843v6pnqb862d55daw]Короче, если чо, соври, мол, ничо не видел, не знаешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -71,12 +71,17 @@
 																																		[mark_u3tk94tkjo091f61stm4]<гоп убегает>[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
 																																			>>>
 																																				[mark_z93z3al7jdv63v137o0g]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					Я тут ни при чем
-																																						[mark_84nr68aw1s05m1tn93v9]Там десятка лежала! А ну верни, а не то полицию вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																							Придется отдать из своих денег
-																																								[mark_2236gkj256b6u9e0te5t][GOTO mark_final6]
-																																							Ничего я тебе не верну
-																																								[mark_bt6x9pawbn6716115k20][GOTO mark_final6]
+																																					Какую вещь?
+																																						[mark_4jhc0b9b3898a2lsjyq8]Бумажник, который у меня только что украли.[VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																							Я тут ни при чем
+																																								[gop2_vallet_10]Там десятка лежала! А ну верни, а не то ментов вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																									Придется отдать из своих денег
+																																										[mark_2236gkj256b6u9e0te5t][GOTO mark_final6]
+																																									[hero_vallet_dont_give]У меня ничего нет
+																																										[mark_bt6x9pawbn6716115k20][GOTO mark_final6]
+																																							[GOTO hero_vallet_dont_give]
+																																					Я как раз вернуть хотел
+																																						[mark_if19583o8ov2hbufw93a][GOTO gop2_vallet_10]
 																													[hero_give_vallet_i_return]Давай я догоню, верну
 																														[mark_73sguj1f9dhs09dcr1a5]Ишь, ты какой хитрожелтый! Стопудово все бабло себе заберешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															Честно верну
@@ -88,8 +93,8 @@
 																																	[GOTO hero_give_1_vallet_money]
 																															[GOTO hero_give_1_vallet_money]
 																											[hero_no_need_vallet_money]Нисколько не надо
-																												[mark_d1qd06kp277b6e0b8y91]Ааа... ты типа правильный пацан. Уважаю![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																													Ну да
+																												[gop1_vallet_good_man]Ааа... ты типа правильный пацан. Уважаю![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																													Типа того
 																														[mark_gwxr2m8n535z694sck65]Слух, тогда у меня для тебя реальное дело есть... слухай сюда...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																															
 																																[mark_6u37ynr7ero220u4eem3][GOTO gop1_story3]
@@ -107,9 +112,11 @@
 																							[hero_give_1_vallet_money]Давай косарь за молчание
 																								[mark_714r2m04sl04280dl1l5][GOTO gop1_vallet_money_you_tricky]
 																					[GOTO hero_give_1_vallet_money]
+																					[hero_vallet_silent]Буду молчать
+																						[mark_e3tq251bi02qp90ql9ba][GOTO gop1_vallet_good_man]
 																			[GOTO hero_give_vallet_i_return]
 																	[GOTO hero_give_vallet_i_return]
-																	[GOTO hero_give_1_vallet_money]
+																	[GOTO hero_vallet_silent]
 															[GOTO hero_give_vallet_i_return]
 														[gop1_story3,EPISODE3]Седня узбеки колодец рыли, нашли кувшин со старинными монетами.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Я тут при чем?
@@ -133,10 +140,10 @@
 																																	Это последние деньги
 																																		[mark_j0898g15kflblf203h5i]Лады, в 3 раза больше верну, токо давай быстрее![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			[hero_pot_money_if_not_return]А если не вернешь?
-																																				[mark_k1ebh33c6b159v5yzie1]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																				[gop1_pot_mama_swear]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																					Я на слово не верю
 																																						[gop1_pot_wanna_mobile]Ну хошь, я те мобильник в залог оставлю?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																							Какой мобильник? Покажи
+																																							Покажи мобильник
 																																								[mark_q6erk1ry56ck97701uf6]Вот, смотри. Я у жигурды за 5 косарей брал. Ваще он новый 10 стоит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																									В 4 раза больше вернешь, согласен?
 																																										[mark_p53m7gv75k6u948ytd5k]Ай, братан! Ты не оставил мне выбора...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
@@ -161,8 +168,9 @@
 																																																									[GOTO hero_pot_will_give_mobile_back]
 																																																							Какая вещь?
 																																																								[mark_gyuou3grbsdgnv26xy95][GOTO gop2_pot_my_mobile]
-																																									Ладно, давай
+																																									[hero_pot_ok_give_me_mobile]Ладно, давай
 																																										[mark_kk269qo0c786770f64a0][GOTO gop1_pot_take_mobile]
+																																							[GOTO hero_pot_ok_give_me_mobile]
 																																					А она у тебя есть?
 																																						[mark_ld0deu8g177w0bm6c0i2]Лады, я тя понял, братан.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																							
@@ -170,9 +178,12 @@
 																																									
 																																										[mark_akgm634s71ku7x74q9w2][GOTO gop1_story4]
 																																			[hero_pot_can_give_1]Косарь могу дать
-																																				[mark_afmeq8t0ls303c56y2p3][GOTO gop1_pot_take_money]
+																																				[mark_861th8f9u01f4nzb8qby]Давай братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																					[hero_pot_will_you_return]А точно вернешь?
+																																						[mark_y97124545dj6l107hr3g][GOTO gop1_pot_mama_swear]
 																																			[hero_pot_can_give_2]2 косаря могу дать
-																																				[mark_126kl9ihnz45c681yaa6][GOTO gop1_pot_take_money]
+																																				[mark_d826p72rqvo2t3794hf1]От души, братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																					[GOTO hero_pot_will_you_return]
 																																	[hero_pot_dark_deal]Сомнительное дело
 																																		[mark_883ff0h082xzhi88un45][GOTO gop1_pot_wanna_mobile]
 																															[hero_pot_i_go2]Я лучше пойду
@@ -441,7 +452,7 @@
 									Здарова, Сява
 										[mark_86kxta9k619komz99d2l]<гоп тянет руку поздароваться>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[hero_greetings_what_you_want]Чего хотел то?
-												[mark_5fatn2vqe105kph85844]А тя чо, руку жать не учили, када здароваешься?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+												[mark_5fatn2vqe105kph85844]А тя чо, руку жать не учили, када здороваешься?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 													Обойдемся без этого
 														[gop1_ask_shake_hand]Слух, я к те по-пацански подкатил, клешнями потрясти. А ты мне понты строишь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															[hero_have_no_time]Некогда, я тороплюсь
@@ -530,7 +541,7 @@
 				[mark_ys4ra2l5wdz170aas8x9]Гоп прикурил тебе петарду. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final8]Гоп отвлек твое внимание и завинтил тебе в тыкву. Отташил с корешом за угол и обшмонал по полной. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
+		[mark_final8]Гоп отвлек твое внимание и завинтил тебе в тыкву. Утащил с корешом за угол и обшмонал по полной. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final9]Гоп стукнул тебе в жбан. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
