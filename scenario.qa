@@ -16,7 +16,7 @@
 															Что видел?
 																[mark_gt2hrw48l4i7b4d8nr88][GOTO gop1_intro1,gop1_intro2,gop1_intro3]
 																	
-																		[gop1_intro1]Мент от бомжа убегает![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																		[gop1_intro1]Мент от бомжа убегал.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Мент украл у бомжа что-то, раз убегает
 																				[mark_7tlv1r5z0j3fbi2964o9]Ты чо не вкурил чоли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Мне поровну
@@ -41,27 +41,27 @@
 																		[mark_52526zkmxf23fi446442][GOTO mark_final8]
 																	Бывают такие
 																		[mark_479se2hjn9jvlx2a97r3][GOTO gop1_joke1]
-																[gop1_intro3]НЛО летит...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Нее, это кто-то окурок из окна выбросил
+																[gop1_intro3]По небу яркое пролетело.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																	Это кто-то окурок из окна выбросил
 																		[mark_1vn93lfk3a635b6cq1ak][GOTO mark_final8]
 																	Тебе показалось
 																		[mark_2uej2ft0t5b66t2imaj0][GOTO gop1_joke1]
-															Нет, а что?
+															Да, видел
 																[mark_82418s5bjrpws86owdua][GOTO gop1_intro_end]
 														[gop1_story2,EPISODE2]Мужик шел, лопатник потерял, а в нем 5 косарей лежало, прикинь...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															А мне то что?
 																[mark_367x901kv5ua4q2tu055]Если он щас сюда вернется, ты молчи, понял?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Лучше вернуть
+																	[hero_vallet_go_return]Догони, верни
 																		[mark_9f1fc4o80cn84su84dmi]Ты чо базаришь? Мне 5 косарей не лишние![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			Так нельзя
+																			Это неправильно
 																				[mark_ru843v6pnqb862d55daw]Короче, если чо, соври, мол, ничо не видел, не знаешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Я врать не буду
 																						[take_half_money]Эээ, слух, стопэ! Погоди, я тя понял. Косарь за молчание хошь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							Нет, не надо
 																								[mark_k381n2h5y4r2c37pw422]Эээ, ну ты жадюга! Лады, 2 косаря твои, и ты ничо не знаешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																									Благодарю, не надо
+																									Благодарствую, не надо
 																										[gop1_how_much_for_vallet]Скоко ты за молчание хошь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																											[hero_no_need_dirty_vallet_money]Это чужие деньги
+																											[hero_no_need_dirty_vallet_money]Не нужны мне чужие деньги
 																												[mark_4ukqd5g2w9aeu5u9161f]Сдать меня хошь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																													Верни вещь обратно
 																														[mark_489704nbeqy59e672oaa]Сам верни![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
@@ -70,18 +70,26 @@
 																																	
 																																		[mark_u3tk94tkjo091f61stm4]<гоп убегает>[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
 																																			>>>
-																																				[mark_z93z3al7jdv63v137o0g]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																				[mark_e886y3dh0810v2ca8pyb]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																					Ты кто такой?
+																																						[mark_z93z3al7jdv63v137o0g]Бумажник мой вернул быстро![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																							Какой бумажник?
+																																								[gop2_vallet_stollen_now]Бумажник, который у меня выпал.[VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																									Я тут ни при чем
+																																										[gop2_vallet_10]Там десятка лежала! А ну верни все, а не то ментов вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																											Не было там десятки
+																																												[mark_n843m885872ziu2ol24g]Была там десятка, и ты мне ее вернешь![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																													[hero_vallet_must_give_from_money]Придется отдать из своих денег
+																																														[mark_2236gkj256b6u9e0te5t][GOTO mark_final6]
+																																											Там пятерка была
+																																												[mark_p98i1b6097p79y0k0eog]Гони пятерку и вали отсюда![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																													[GOTO hero_vallet_must_give_from_money]
+																																									[hero_vallet_just_want_return]Я как раз тебе вернуть хотел
+																																										[mark_if19583o8ov2hbufw93a][GOTO gop2_vallet_10]
+																																									[GOTO hero_vallet_dont_give]
+																																							[GOTO hero_vallet_just_want_return]
 																																					Какую вещь?
-																																						[mark_4jhc0b9b3898a2lsjyq8]Бумажник, который у меня только что украли.[VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																							Я тут ни при чем
-																																								[gop2_vallet_10]Там десятка лежала! А ну верни, а не то ментов вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																									Придется отдать из своих денег
-																																										[mark_2236gkj256b6u9e0te5t][GOTO mark_final6]
-																																									[hero_vallet_dont_give]У меня ничего нет
-																																										[mark_bt6x9pawbn6716115k20][GOTO mark_final6]
-																																							[GOTO hero_vallet_dont_give]
-																																					Я как раз вернуть хотел
-																																						[mark_if19583o8ov2hbufw93a][GOTO gop2_vallet_10]
+																																						[mark_9du35ro305m4uw0m50lw][GOTO gop2_vallet_stollen_now]
 																													[hero_give_vallet_i_return]Давай я догоню, верну
 																														[mark_73sguj1f9dhs09dcr1a5]Ишь, ты какой хитрожелтый! Стопудово все бабло себе заберешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															Честно верну
@@ -117,95 +125,95 @@
 																			[GOTO hero_give_vallet_i_return]
 																	[GOTO hero_give_vallet_i_return]
 																	[GOTO hero_vallet_silent]
-															[GOTO hero_give_vallet_i_return]
+															[GOTO hero_vallet_go_return]
 														[gop1_story3,EPISODE3]Седня узбеки колодец рыли, нашли кувшин со старинными монетами.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															Я тут при чем?
-																[mark_66r718wjgh82m428v7un]Мне калдырь сказал, каждую по 3 косаря возьмет.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															И что с того?
+																[mark_66r718wjgh82m428v7un]Есть знакомый барыга, 10 монет за 30 косарей готов взять.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Ну и что?
-																		[gop1_pot_10_10]Я щас с узбеками чиста по-пацански договорился, 10 монет всего за 10 косарей взять.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																			
-																				[gop1_pot_20]... это 20 косарей чистого навара, прикинь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																					Ну так бери
-																						[mark_55fw5b2i6qu4movxem58]Да я возьму, но мне чуток не хватает... займи 3 косаря?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																							Нет, не могу
-																								[gop1_pot_return_2x]Ты чо, разбогатеть не хошь? Займи 3 косаря, я те в два раза больше верну![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																									Не мой вариант
-																										[mark_48h9djt06ss4m8866n97]Слух, мне надо успеть до вечера! Потом уйдут другому жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																											Нет у меня денег
-																												[mark_5i27d35im0p89kfhabv3]Ну а скоко есть? Я те прям сразу верну вдвойне.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																													Нисколько нет
-																														[mark_v8yta15985v8843mb5l9]Да не гони! Я же чую, что есть.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																															У меня совсем мало
-																																[mark_49j9k2z7de96vy67kp42]Лады, давай скоко есть. Я те через 5 мин в 2 раза больше отдам, отвечаю![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																	Это последние деньги
-																																		[mark_j0898g15kflblf203h5i]Лады, в 3 раза больше верну, токо давай быстрее![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																			[hero_pot_money_if_not_return]А если не вернешь?
-																																				[gop1_pot_mama_swear]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					Я на слово не верю
-																																						[gop1_pot_wanna_mobile]Ну хошь, я те мобильник в залог оставлю?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																							Покажи мобильник
-																																								[mark_q6erk1ry56ck97701uf6]Вот, смотри. Я у жигурды за 5 косарей брал. Ваще он новый 10 стоит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																									В 4 раза больше вернешь, согласен?
-																																										[mark_p53m7gv75k6u948ytd5k]Ай, братан! Ты не оставил мне выбора...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																											
-																																												[gop1_pot_take_mobile]Держи, братан. Давай деньги.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																													>>>
-																																														[mark_24p36yjb6tnxzyd8xbbn]<Гоп отдает мобилу>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
+																		[gop1_pot_10_10]Узбеки, по-пацански, 10 монет за 10 косарей отдадут. Потом я барыге за 30 скину, а 20 косарей себе в карман, прикинь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																			Ну так и сделай
+																				[mark_55fw5b2i6qu4movxem58]Да я сделаю, но мне чуток не хватает... займи 3 косаря?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																					У меня нет
+																						[gop1_pot_return_2x]Ты чо, разбогатеть не хошь? Займи 3 косаря, я те в два раза больше верну![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																							Не мой вариант
+																								[mark_48h9djt06ss4m8866n97]Слух, мне надо успеть до вечера! Потом уйдут другому жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																									Нет у меня денег
+																										[mark_5i27d35im0p89kfhabv3]Ну а скоко есть? Я те прям сразу верну вдвойне.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																											Нисколько нет
+																												[mark_v8yta15985v8843mb5l9]Да не гони! Я же чую, что есть.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																													У меня совсем мало
+																														[mark_49j9k2z7de96vy67kp42]Лады, давай скоко есть. Я те через 5 мин в 2 раза больше отдам, отвечаю![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																															Это последние деньги
+																																[mark_j0898g15kflblf203h5i]Лады, в 3 раза больше верну, токо давай быстрее![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																	[hero_pot_money_if_not_return]А если не вернешь?
+																																		[gop1_pot_mama_swear]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																			Я на слово не верю
+																																				[gop1_pot_wanna_mobile]Ну хошь, я те мобильник в залог оставлю?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																					Покажи мобильник
+																																						[mark_q6erk1ry56ck97701uf6]Вот, смотри. Я у жигурды за 5 косарей брал. Ваще он новый 10 стоит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																							В 4 раза больше вернешь, согласен?
+																																								[mark_p53m7gv75k6u948ytd5k]Ай, братан! Ты не оставил мне выбора...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																									
+																																										[gop1_pot_take_mobile]Держи, братан. Давай деньги.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																											>>>
+																																												[mark_24p36yjb6tnxzyd8xbbn]<Гоп отдает мобилу>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
+																																													
+																																														[gop1_pot_take_money]<Гоп берет деньги>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
 																																															
-																																																[gop1_pot_take_money]<Гоп берет деньги>...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.mp3]
+																																																[mark_ldlm8pyrz8639d941t7k]Жди здесь, я быстро![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																																	
-																																																		[mark_ldlm8pyrz8639d941t7k]Жди здесь, я быстро![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																																			
-																																																				[mark_22ucr174d7875she0j94]<гоп убегает>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																					>>>
-																																																						[mark_35p51p2yrz766f9z16u2]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																							Я у тебя ничего не брал
+																																																		[mark_22ucr174d7875she0j94]<гоп убегает>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																			>>>
+																																																				[mark_o7039qa0klbd057a48k0]Эй ты! Стой! Вернул мою вещь обратно![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																					Ты кто такой?
+																																																						[mark_x68w66q6605oymz6ejdb]Не твое дело, верни мою вещь быстро![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																							[hero_vallet_i_took_nothing]Я у тебя ничего не брал
 																																																								[gop2_pot_my_mobile]Тебе пацан сейчас мой украденный телефон передал. Я все видел![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																									Ничего он мне не давал
 																																																										[mark_08j13t5v26oc429l360r]На нем твои отпечатки. Отдай по-хорошему или я ментов вызову![VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																											[hero_pot_will_give_mobile_back]Придется отдать
 																																																												[mark_iy7tq01s9d9e373sq12g][GOTO mark_final11]
 																																																									[GOTO hero_pot_will_give_mobile_back]
-																																																							Какая вещь?
+																																																							Какую вещь?
 																																																								[mark_gyuou3grbsdgnv26xy95][GOTO gop2_pot_my_mobile]
-																																									[hero_pot_ok_give_me_mobile]Ладно, давай
-																																										[mark_kk269qo0c786770f64a0][GOTO gop1_pot_take_mobile]
-																																							[GOTO hero_pot_ok_give_me_mobile]
-																																					А она у тебя есть?
-																																						[mark_ld0deu8g177w0bm6c0i2]Лады, я тя понял, братан.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																																					[GOTO hero_vallet_i_took_nothing]
+																																							[hero_pot_ok_give_me_mobile]Ладно, давай
+																																								[mark_kk269qo0c786770f64a0][GOTO gop1_pot_take_mobile]
+																																					[GOTO hero_pot_ok_give_me_mobile]
+																																			А она у тебя есть?
+																																				[mark_ld0deu8g177w0bm6c0i2]Лады, я тя понял, братан.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																					
+																																						[gop1_pot_if_dont_want_give]Если не хошь занимать, то...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																							
-																																								[gop1_pot_if_dont_want_give]Если не хошь занимать, то...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																									
-																																										[mark_akgm634s71ku7x74q9w2][GOTO gop1_story4]
-																																			[hero_pot_can_give_1]Косарь могу дать
-																																				[mark_861th8f9u01f4nzb8qby]Давай братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					[hero_pot_will_you_return]А точно вернешь?
-																																						[mark_y97124545dj6l107hr3g][GOTO gop1_pot_mama_swear]
-																																			[hero_pot_can_give_2]2 косаря могу дать
-																																				[mark_d826p72rqvo2t3794hf1]От души, братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					[GOTO hero_pot_will_you_return]
-																																	[hero_pot_dark_deal]Сомнительное дело
-																																		[mark_883ff0h082xzhi88un45][GOTO gop1_pot_wanna_mobile]
-																															[hero_pot_i_go2]Я лучше пойду
-																																[mark_ss9ce8dbe148803ha01l]Да погоди ты, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																	
-																																		[mark_lp88gl66g4b75l1828em][GOTO gop1_pot_if_dont_want_give]
-																															[GOTO hero_pot_can_give_1]
+																																								[mark_akgm634s71ku7x74q9w2][GOTO gop1_story4]
+																																	[hero_pot_can_give_1]Косарь могу дать
+																																		[mark_861th8f9u01f4nzb8qby]Давай братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																			[hero_pot_will_you_return]А точно вернешь?
+																																				[mark_y97124545dj6l107hr3g][GOTO gop1_pot_mama_swear]
+																																	[hero_pot_can_give_2]2 косаря могу дать
+																																		[mark_d826p72rqvo2t3794hf1]От души, братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																			[GOTO hero_pot_will_you_return]
+																															[hero_pot_dark_deal]Сомнительное дело
+																																[mark_883ff0h082xzhi88un45][GOTO gop1_pot_wanna_mobile]
+																													[hero_pot_i_go2]Я лучше пойду
+																														[mark_ss9ce8dbe148803ha01l]Да погоди ты, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																															
+																																[mark_lp88gl66g4b75l1828em][GOTO gop1_pot_if_dont_want_give]
 																													[GOTO hero_pot_can_give_1]
-																											[GOTO hero_pot_dark_deal]
-																									[GOTO hero_pot_money_if_not_return]
-																									[GOTO hero_pot_can_give_1]
+																											[GOTO hero_pot_can_give_1]
+																									[GOTO hero_pot_dark_deal]
+																							[GOTO hero_pot_money_if_not_return]
 																							[GOTO hero_pot_can_give_1]
-																							[GOTO hero_pot_can_give_2]
-																					Денег не дам
-																						[mark_759d6091ke95x38p719l]Да ты не понял, братуха...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																							
-																								[mark_70x5id4h6n0nij1872j2][GOTO gop1_pot_return_2x]
+																					[GOTO hero_pot_can_give_1]
+																					[GOTO hero_pot_can_give_2]
+																			Денег не дам
+																				[mark_759d6091ke95x38p719l]Да ты не понял, братуха...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																					
+																						[mark_70x5id4h6n0nij1872j2][GOTO gop1_pot_return_2x]
 																	[hero_pot_i_go]Я лучше пойду
 																		[mark_innkv26sa3r2402l8w1o]Да погоди ты, братуха, дослушай![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																			
 																				[mark_zo0gn77c5b173wu2df1q][GOTO gop1_pot_10_10]
-															[GOTO hero_pot_i_go]
 														[gop1_story4,EPISODE4]Давай я те идею-бизнес за недорого продам.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Нет, не хочу
 																[mark_in95gldgysp7707kzp7s]Да ты чо, богатым станешь. Пацаны уважать тебя будут![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -287,7 +295,7 @@
 																[mark_s56q4p6d1mbfeucuyb3h]Да не гони! Его полгорода знает.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Я из другой половины
 																		[mark_7n6fkkc9k657g1qjt8r6]Да ты хоть откуда будь, но таких уважаемых пацанов знать должен.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			Кто это?
+																			Кто он?
 																				[gop1_mobile_prison]Это кореш мой, Кирпич, недавно с зоны откинулся.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Ну пусть так
 																						[mark_114u8p9wmuwla93phtw1]Он за мокруху десятку отсидел. Трех кабанов один завалил. Ваще зверюга![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -299,18 +307,18 @@
 																												[mark_66wpj357v290fu2e13l0]Смари короч... красиво бабашит?<Гоп держит мобилу прямо перед ГГ>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																													Мне пора
 																														[mark_4mg9a2z1yx2115p67d85]Опа! А вот он сам идет! Эээ, Кирпич, дарова, ди сюда!<Гоп держит мобилу прямо перед ГГ на переднем плане>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																															Мне некогда
+																															Я пошел
 																																[mark_ql740l4mtd15m484z2j7]Стой здесь!<гоп роняет телефон>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																	
 																																		[mark_6mx0h29tps417csy1w6l]Эээ, ты зачем меня щас толкнул???[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			Не толкал я тебя
 																																				[mark_9i7tmuf4473470btf05f]Ты мне мобилу разбил![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					Я тут ни при чем
+																																					Я тебя не трогал
 																																						[mark_272j07m9cu9t8502e3k5]Ты мне чо тут горбатого лепишь?! Новую покупай или бабло гони![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																							Ты сам уронил
 																																								[mark_451um4hn7e605qh1u3zl]Эээ, ты, слышь! Я все видел, ты его толкнул. По-пацански возмести ему ущерб.[VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																									Не так все было
-																																										[mark_b6cuz218nl62imcm7x4p]Ты чо, по-хорошему не понимаешь? Пошли отойдем.[VIDEO fight2_gop2_idle.mp4][AUDIO silent_1][BGNDVIDEO fight2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																										[mark_b6cuz218nl62imcm7x4p]Ты чо, по-хорошему не понимаешь? Пошли отойдем.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																											Ладно, я заплачу
 																																												[mark_ab7db88t3r10vms74w99]Вот и правильно. С тебя десятка.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																													Покажи повреждения
@@ -424,7 +432,7 @@
 										[mark_562q9e2p6muma3wsgaq8]Братан, ты чо та какой то напряженный. Обидел кто?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[hero_intro_go_away]Отвали
 												[mark_c422v4x76q2zw33ak9q4]Братан, ты чо мне, нормальному пацану, борзишь?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1.5][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-													Нормальному? Я с тобой косяк не кумарил, не знаю
+													Нормальный? Я с тобой косяк не кумарил, не знаю
 														[mark_s7lyaorot7c689hpj42d]Так давай раскумарим![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															А у тебя есть?
 																[mark_z16p008j9sucnz47g269]Имеется.<гоп достает сигу>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -533,7 +541,7 @@
 				[mark_27vp11643dq63559wut2]Ты отдал все свои деньги. Отрицательный финал.[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final6]Тебе пришлось возмещать мужику ущерб, чтобы не посадили. Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final6]Тебе пришлось возмещать мужику ущерб из личного кармана, чтобы не посадили. Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final7]<дает сигарету-петарду, прикуривает, взрыв, метный экран>[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
