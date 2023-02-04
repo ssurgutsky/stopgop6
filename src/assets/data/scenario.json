@@ -1052,7 +1052,7 @@
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "gop1_pot_return_2x",
-                                                                                                  "_content": "[LABEL Ты чо, разбогатеть не хошь? Займи 3 косаря, я те в два раза больше верну!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_content": "[LABEL Это легкие деньги. Займи 3 косаря, я те в два раза больше верну!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
@@ -1090,11 +1090,11 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "mark_759d6091ke95x38p719l",
-                                                                                          "_content": "[LABEL Да ты не понял, братуха...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                          "_content": "[LABEL Щас поясню, братуха...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
-                                                                                      "_content": "[LABEL Денег не дам]"
+                                                                                      "_content": "[LABEL А я тут каким боком?]"
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "gop1_pot_10_10",
@@ -1485,10 +1485,14 @@
                                                                                             {
                                                                                               "_mark": "",
                                                                                               "_content": "[LABEL ][GOTO hero_cash_no_interest]"
+                                                                                            },
+                                                                                            {
+                                                                                              "_mark": "",
+                                                                                              "_content": "[LABEL ][GOTO gop1_cash_lets_try]"
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "mark_7w6nk96k400gm92cqgic",
-                                                                                          "_content": "[LABEL  Ты чо, мне не веришь? Я те выгодное дело предлагаю, епта!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL  Ты чо, мне не веришь? Я те выгодное дело предлагаю, итить!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
@@ -1548,7 +1552,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_story4,EPISODE4",
-                                                                  "_content": "[LABEL Давай я те идею-бизнес за недорого продам.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Давай я те бизнес-идею за недорого продам.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 },
                                                                 {
                                                                   "node": [
@@ -2743,8 +2747,14 @@
                                                       "_content": "[LABEL Заработок ищу]"
                                                     },
                                                     {
+                                                      "node": [
+                                                        {
+                                                          "_mark": "mark_fmzi4dhte833py147zwe",
+                                                          "_content": "[LABEL ][GOTO gop1_story1]"
+                                                        }
+                                                      ],
                                                       "_mark": "",
-                                                      "_content": "[LABEL ][GOTO hero_greetings_what_you_want]"
+                                                      "_content": "[LABEL Ничем]"
                                                     }
                                                   ],
                                                   "_mark": "mark_562q9e2p6muma3wsgaq8",

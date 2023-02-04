@@ -134,7 +134,7 @@
 																			Ну так и сделай
 																				[mark_55fw5b2i6qu4movxem58]Да я сделаю, но мне чуток не хватает... займи 3 косаря?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					У меня нет
-																						[gop1_pot_return_2x]Ты чо, разбогатеть не хошь? Займи 3 косаря, я те в два раза больше верну![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																						[gop1_pot_return_2x]Это легкие деньги. Займи 3 косаря, я те в два раза больше верну![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							Не мой вариант
 																								[mark_48h9djt06ss4m8866n97]Слух, мне надо успеть до вечера! Потом уйдут другому жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																									Нет у меня денег
@@ -206,21 +206,21 @@
 																							[GOTO hero_pot_can_give_1]
 																					[GOTO hero_pot_can_give_1]
 																					[GOTO hero_pot_can_give_2]
-																			Денег не дам
-																				[mark_759d6091ke95x38p719l]Да ты не понял, братуха...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																			А я тут каким боком?
+																				[mark_759d6091ke95x38p719l]Щас поясню, братуха...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																					
 																						[mark_70x5id4h6n0nij1872j2][GOTO gop1_pot_return_2x]
 																	[hero_pot_i_go]Я лучше пойду
 																		[mark_innkv26sa3r2402l8w1o]Да погоди ты, братуха, дослушай![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																			
 																				[mark_zo0gn77c5b173wu2df1q][GOTO gop1_pot_10_10]
-														[gop1_story4,EPISODE4]Давай я те идею-бизнес за недорого продам.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+														[gop1_story4,EPISODE4]Давай я те бизнес-идею за недорого продам.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Нет, не хочу
 																[mark_in95gldgysp7707kzp7s]Да ты чо, богатым станешь. Пацаны уважать тебя будут![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	А сам чо?
 																		[gop1_uses_cash_trick]Я сам постоянно пользуюсь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			По тебе и не скажешь
-																				[mark_7w6nk96k400gm92cqgic] Ты чо, мне не веришь? Я те выгодное дело предлагаю, епта![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																				[mark_7w6nk96k400gm92cqgic] Ты чо, мне не веришь? Я те выгодное дело предлагаю, итить![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Верю, но мне не надо
 																						[gop1_cash_show_trick]Я те щас покажу, и ты сам решишь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							[gop1_cash_lets_try]Ну попробуй
@@ -283,6 +283,7 @@
 																											[GOTO gop1_cash_lets_try]
 																									[GOTO gop1_cash_lets_try]
 																					[GOTO hero_cash_no_interest]
+																					[GOTO gop1_cash_lets_try]
 																			[GOTO gop1_cash_lets_try]
 																	Что-то я сомневаюсь
 																		[mark_rguig51szt6qq4x73hu7][GOTO gop1_cash_show_trick]
@@ -502,7 +503,8 @@
 												[mark_t96hr07gd6o6h58r160t]Так это ты удачно меня щас встретил![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 													
 														[mark_j71i21op7xix92aka6mn][GOTO gop1_story3]
-											[GOTO hero_greetings_what_you_want]
+											Ничем
+												[mark_fmzi4dhte833py147zwe][GOTO gop1_story1]
 							Я тебя не знаю
 								[mark_w9tu18dxm8d74cl0g531]Ну дык, давай познакомимся, я - Сява, а ты кто?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_say_hello.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									Здарова, Сява
