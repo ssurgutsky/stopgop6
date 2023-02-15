@@ -413,9 +413,9 @@
 														[gop1_story6,EPISODE6]Слух, дай мобилу, корешу звонок сделать.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Сто баксов
 																[mark_h71985marrb7xsq47216]Чо так дорого?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																	Попроси других подешевле
+																	Попроси других дешевле
 																		[mark_j705k4tp57qvz68x46t3]Те чо, жалко для нормального пацана?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																			У меня с собой нет
+																			У меня с собой нет мобилы
 																				[mark_z6dx3tm4d7va5166jx61]Да не кисли! Давай проверим?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					Ну попробуй
 																						[mark_phjmelien0yjr51p40n3]Скажи свой номер.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -436,7 +436,7 @@
 																																					Попроси другого
 																																						[mark_av006s5cwc5211nk8lz7]Давай я те заплачу за sms.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																							Нет, не надо
-																																								[mark_bks9j39722o4gp5cuk3k]Боишься, что отберу мобилу? Так отойди подальше от меня.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																								[gop1_mobile_you_afraid]Боишься, что отберу мобилу? Так отойди подальше от меня.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																									[hero_mobile_ok_send_sms]Ладно, отправлю sms
 																																										[mark_cp20376f6b93demoad13]<ГГ отправляет смс>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																											Отправил
@@ -446,67 +446,80 @@
 																																									[hero_mobile_go_out_chipo]Ступай себе мимо, чиполлино
 																																										[mark_i6ni8338bjch4254qua7][GOTO gop1_story7]
 																																							[GOTO hero_mobile_ok_send_sms]
-																																					[GOTO hero_mobile_go_out_chipo]
+																																					Отстань от меня
+																																						[mark_n04o031y563gb28547c0][GOTO gop1_mobile_you_afraid]
 																																			[hero_mobile_ok_i_call]Ладно, позвоню
 																																				[hero_mobile_make_call]<ГГ звонит>Алло! Сява долг вернул.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																					Готово
 																																						[mark_3679vahz5b5u12zmbaq9][GOTO gop1_mobile_bye]
 																																	[hero_mobile_tell_no_i_call]Говори номер, я сам ему позвоню
-																																		[mark_af16p87sa8102i25ycl8]Набирай. Просто сказажи: "Сява долг вернул".[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																		[mark_af16p87sa8102i25ycl8]Набирай. Просто скажи: "Сява долг вернул".[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																			
 																																				[mark_5ld8h3955t7xu6t47g7c][GOTO hero_mobile_make_call]
 																															[GOTO hero_mobile_tell_no_i_call]
 																															Есть, но не дам
-																																[mark_xu56ii78kcty48vtf13s]<Enter text here>
-																													Давай свой в залог
-																														[mark_r4qbyk724d448n8n955k]Да ты чо, мне пять сек сказать всего.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																															Тогда не дам
-																																[mark_4q5xe3qb6v193xx34277]Лады, держи.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																	
-																																		[mark_lg936mw3270n3n7zn8gy]<Гоп звонит>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
-																																			С тебя полтинник
-																																				[mark_00en4v8n5p148g64mn92]Эээ, ты чо?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					Тогда не отдам
-																																						[mark_e827615m75zea4kg82eq]Лады, держи<Гоп дает 50 руб>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																[mark_53px7z19cdecxe46i053]Ты щас ваще не по-пацански поступаешь.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																	[hero_mobile_give_your_mobile]Давай свою мобилу в залог
+																																		[mark_r4qbyk724d448n8n955k]Да ты чо, мне пять сек сказать всего.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																			Тогда не дам
+																																				[mark_0456tu0gh62bmu5e26iu]Лады, держи.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																					
+																																						[mark_lg936mw3270n3n7zn8gy]<Гоп звонит>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																							С тебя полтинник
+																																								[mark_00en4v8n5p148g64mn92]Эээ, ты чо?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																									Тогда не отдам тебе мобилу
+																																										[mark_3r4z9032xm436wd4y6am]Лады, держи<Гоп дает 50 руб>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																											
+																																												[mark_jsb3pu8640k10j659zog][GOTO gop1_mobile_bye]
+																																									[hero_mobile_ok_i_go]Все, я пошел
+																																										[mark_5o258o7769cpmihjvfe6][GOTO gop1_mobile_bye]
+																																							[GOTO hero_mobile_ok_i_go]
+																																			[hero_mobile_cant_give]Не могу тебе дать
+																																				[mark_a592tstqq994y4182wqj]Ну хошь, я те полтинник заплачу.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																					Давай полтинник
+																																						[mark_k4103kypk430l7r6mpc6]Лады, держи<Гоп дает 50 руб>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																							
-																																								[mark_jsb3pu8640k10j659zog][GOTO gop1_mobile_bye]
-																																					[hero_mobile_ok_i_go]Все, я пошел
-																																						[mark_5o258o7769cpmihjvfe6][GOTO gop1_mobile_bye]
-																																			[GOTO hero_mobile_ok_i_go]
-																															[hero_mobile_cant_give]Не могу тебе дать
-																																[mark_a1nl81y8g1th0288g6t7][GOTO gop1_mobile_you_have_it]
+																																								[mark_r48tgq14rwi78yl8e0ip]<Гоп звонит>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																									
+																																										[mark_a09pxses0bb2p8d5o984][GOTO gop1_mobile_bye]
+																																					[GOTO hero_mobile_tell_no_i_call]
+																																			[GOTO hero_mobile_tell_no_i_call]
+																																	[GOTO hero_mobile_cant_give]
+																																	[GOTO hero_mobile_tell_no_i_call]
 																													[GOTO hero_mobile_cant_give]
+																													[GOTO hero_mobile_give_your_mobile]
 																											[GOTO hero_mobile_cant_give]
 																									[hero_mobile_tell_invalid_no]Скажу левый номер
 																										[mark_2n8385xpxt9um3cxx29w]<гоп звонит, никто не отвечает>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																											
 																												[mark_f9cinp399559t57794m4]А ты мне случаем не левый номер дал?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																													Нет
-																														[mark_03nzp7344blujx513gp9]Нехорошо получится, если щас у тя в кармане зазвонит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																														[gop1_mobile_if_ring_suddenly]Нехорошо получится, если щас те кто позвонит и в кармане зазвенит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															Не позвонит
 																																[mark_73oa4278t4x7ssvf6xzn]<Играет мелодия звонка мобилы ГГ>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																	
-																																		[mark_nt567b49a136c7vd6x4f]Опачки! Проотвечался?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																		[mark_nt567b49a136c7vd6x4f]Опачки! Проотвечался![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			Отвечу на звонок
-																																				[mark_l8j708ceep2uv8z83dhu]Алло, товарищ майор, тут неустановленное лицо совершает противоправные действия. Прошу вас вызвать наряд...<ГГ говорит>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																				[mark_l8j708ceep2uv8z83dhu]Алло, товарищ майор, меня заблокировало неустановленное лицо. Прошу вас вызвать наряд...<ГГ говорит>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																					
 																																						[mark_8l63m9xg8d316h02r95d][GOTO mark_final12]
 																																			Это не у меня
 																																				[mark_405mmjdha0j9uto6s4w5][GOTO mark_final9]
-																															Не зазвонит
+																															Не зазвенит
 																																[hero_mobile_income_call]<Играет мелодия звонка мобилы ГГ>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																	
 																																		[mark_z9zez4i6g2uj961672g3][GOTO mark_final9]
 																													Говорю же, нет мобилы
 																														[mark_ksaez3rfjabk666la5d9][GOTO hero_mobile_income_call]
 																							[GOTO hero_mobile_tell_invalid_no]
-																					[GOTO hero_mobile_go_out_chipo]
+																					Не буду ничего проверять
+																						[mark_wh9nv49zf7935xpxbk4v][GOTO gop1_mobile_if_ring_suddenly]
 																			[hero_mobile_what_about_yours]А своя что?
 																				[mark_o31919o5j4ex167x16td][GOTO gop1_mobile_low_energy]
 																	[GOTO hero_mobile_you_have_your_own]
-															[GOTO hero_mobile_tell_no_i_call]
 															[GOTO hero_mobile_what_about_yours]
-														[gop1_story7,EPISODE7]Нук, стопэ! У тя куртка, как моя, которую вчера украли.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															[GOTO hero_mobile_tell_no_i_call]
+														[gop1_story7,EPISODE7]Нук, стопэ! У тя куртка, как у меня вчера украли.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 															Не может быть
 																[mark_0ix9huk6i0q725d70294]Точняк моя! Вот пятно от пива. Слух, сам отдашь или пацанов позвать?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Не твоя это куртка
