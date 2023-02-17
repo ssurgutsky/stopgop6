@@ -661,14 +661,15 @@
 																	Прикуривай
 																		[mark_63ve2t3i8f206r8zk4wa][GOTO mark_final7]
 															[GOTO hero_have_no_time]
-															[GOTO hero_greetings_what_you_want]
+															[GOTO hero_asks_gop_what_want]
 													[GOTO hero_go_hell_gop1]
+													[GOTO hero_what_your_deal]
 											Ничем
 												[mark_fmzi4dhte833py147zwe][GOTO gop1_story1]
 											[GOTO hero_man_looking_for_job]
 							Я тебя не знаю
 								[mark_w9tu18dxm8d74cl0g531]Ну дык, давай познакомимся, я - Сява, а ты кто?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO gop1_say_hello.mp3][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-									Здарова, Сява
+									Ну здарова
 										[mark_86kxta9k619komz99d2l]<гоп тянет руку поздароваться>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[hero_greetings_what_you_want]Чего хотел то?
 												[mark_5fatn2vqe105kph85844]А тя чо, руку жать не учили, када здороваешься?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -685,7 +686,7 @@
 																							[hero_go_hell_gop1]Свали в бездну, образина
 																								[gop1_you_shit]Эээ, ты чо, собака сутулая, совсем нюх потерял?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																									Пшел вон
-																										[mark_6bpgg3149l611u45svcp]Опа! А ну давай отойдем, разберемся по-пацански![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																										[gop1_go_beat]Опа! А ну давай отойдем, разберемся по-пацански![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																											Ну давай, пошли
 																												[mark_k4n8u5kas5bvd8upeq5n][GOTO mark_final13]
 																											[hero_asks_gop_calm_what_want]Ладно, успокойся, чего хотел?
@@ -700,6 +701,7 @@
 																			[GOTO hero_asks_gop_what_want]
 																	Типа того
 																		[mark_d37cp8jxtwj6798n2v86][GOTO gop1_give_me_30sec]
+																	[GOTO hero_what_your_deal]
 															[GOTO hero_shake_gop_hand]
 													Учили
 														[mark_753py6442v83x1r463u8]Ну так пожми руку жигурде![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -713,10 +715,47 @@
 											[GOTO hero_shake_gop_hand]
 									Это неважно
 										[mark_fm48s46c9ymm5j9wr31n]Слух, я к тебе от души с душой в душу, а ты мне чо?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+											[hero_what_your_deal]Тебе какое дело
+												[mark_f3026x9bk01oxaa0rw1u]Слух, курить есть чо?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+													Сосать есть, курить нет
+														[mark_42u24xq5ht4h6n9w157g]Ты чо, охренел?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															Да охренел. И чо?
+																[mark_6oe99b1a12v3w190534e]Ты больной какой то... [VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
+																	
+																		[mark_c6uwv26q2204116f4pxb][GOTO mark_final2]
+															Ты сам охренел
+																[mark_8q5u9b522da8c86z34qo][GOTO gop1_go_beat]
+													Нет, не курю
+														[mark_7j1eguw768ikmvfw64ur]Спортсмен, что ли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															Нет, рак лёгких
+																[mark_3998kj2t071mm12474o7]О, ну извини братан...[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
+																	
+																		[mark_sn92oa703ecs0430704a][GOTO mark_final2]
+															Да спортсмен
+																[mark_fa2q1o9dq87lrzf63v38]Не похож вроде... и чо за спорт у тебя?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																	В тренажерку хожу
+																		[mark_d0p8wfavl6weljupjltt][GOTO gop1_story_preview]
+																	На бокс хожу
+																		[mark_oj606h4tq934dml45pmx]Да ладно! Ты на шахматиста похож...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																			Хочешь проверить?
+																				[mark_3f7r83zqij9288879k2x]Ну как бросишь свой спорт, мы еще раз встретимся...[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
+																					
+																						[mark_f93n8962nq3w3307xu1s][GOTO mark_final2]
+																			Могу тебе больно сделать
+																				[mark_h1x476fq198x6601t539]Нее, не, не надо![VIDEO gops1_gop1_speaking.mp4][AUDIO silent_1]
+																					
+																						[mark_32wfiq2htyl97d6wl56z][GOTO mark_final12]
+																	Шахматы
+																		[mark_dhl8rsv07fggb21gee64]Гонишь, ты на боксера похож...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																			Да, бокс тоже
+																				[mark_n70wt8y1akat95ht1dih]Ты чо поверил? Я же пошутил, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																					
+																						[mark_gja8d1lfq86a786470z5][GOTO mark_final9]
+																			Нет, я шахматист
+																				[mark_918mk9knq6ep5hw308aa][GOTO gop1_story5]
 											Ничего
 												[mark_760vr73zjr20vs1dn5n7][GOTO gop1_ask_shake_hand]
 											[GOTO hero_have_no_time]
-											[GOTO hero_greetings_what_you_want]
 									[GOTO hero_shake_gop_hand]
 							[GOTO hero_intro_go_away]
 			СЛОВАРЬ
@@ -754,8 +793,7 @@
 				[mark_61s90c870a8bv2jmm4s2][NAVIGATEURL https://vk.com/club23748098]
 					
 						[mark_q2nd78cyrc83r906j165][GOTO PREPARE]
-		[fight2]Хрящ, отчапай в сторонку.[VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_gop1_go_aside.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10][MUSIC music_fight2.mp3]
-			>>>
+		[mark_3c81m7b34v2u2000846z]>>>
 		[mark_final1]Ты избавился от гопов. Главный положительный финал![BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
@@ -775,7 +813,7 @@
 				[mark_27vp11643dq63559wut2]Ты отдал все свои деньги. Отрицательный финал.[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final6]Тебе пришлось возмещать мужику ущерб из личного кармана, чтобы не посадили. Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final6]Тебе пришлось возмещать ущерб из личного кармана, чтобы не посадили. Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final7]<дает сигарету-петарду, прикуривает, взрыв, метный экран>[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
@@ -801,7 +839,7 @@
 				[mark_0949b64j5734067gk94d]Тебе пришлось отдать телефон мужику. Отрицательный финал.[BGPICTURE none][VIDEO none][AUDIO silent_1][IMAGE bg_kitchen.jpg][BGNDIMAGE *]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final12]Гоп в ужасе свалил от тебя. Положительный финал (но можно лучше).[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
+		[mark_final12]Гоп в ужасе свалил от тебя. Положительный финал (но можно лучше).[VIDEO gops1_gop1_run_away.mp4][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final13]В подворотне тебя отпинали и отобрали все вещи и деньги. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
