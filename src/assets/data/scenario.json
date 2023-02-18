@@ -664,7 +664,7 @@
                                                                                                                                 }
                                                                                                                               ],
                                                                                                                               "_mark": "hero_vallet_silent",
-                                                                                                                              "_content": "[LABEL Ладно, промолчу]"
+                                                                                                                              "_content": "[LABEL Хорошо, я промолчу]"
                                                                                                                             }
                                                                                                                           ],
                                                                                                                           "_mark": "mark_4ukqd5g2w9aeu5u9161f",
@@ -699,6 +699,10 @@
                                                                                                                               ],
                                                                                                                               "_mark": "",
                                                                                                                               "_content": "[LABEL Ну да, типа того]"
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                              "_mark": "",
+                                                                                                                              "_content": "[LABEL ][GOTO hero_give_vallet_i_return]"
                                                                                                                             }
                                                                                                                           ],
                                                                                                                           "_mark": "gop1_vallet_good_man",
@@ -1133,6 +1137,16 @@
                                                                                                                                                       ],
                                                                                                                                                       "_mark": "hero_pot_will_you_return",
                                                                                                                                                       "_content": "[LABEL А точно вернешь?]"
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "node": [
+                                                                                                                                                        {
+                                                                                                                                                          "_mark": "mark_8558z9o1uyz8lhjpv744",
+                                                                                                                                                          "_content": "[LABEL ][GOTO gop1_pot_take_money]"
+                                                                                                                                                        }
+                                                                                                                                                      ],
+                                                                                                                                                      "_mark": "",
+                                                                                                                                                      "_content": "[LABEL Держи]"
                                                                                                                                                     }
                                                                                                                                                   ],
                                                                                                                                                   "_mark": "mark_861th8f9u01f4nzb8qby",
@@ -3101,173 +3115,41 @@
                                                                                                                                             {
                                                                                                                                               "node": [
                                                                                                                                                 {
-                                                                                                                                                  "_mark": "mark_70p97p9x1ucx28j0drt8",
-                                                                                                                                                  "_content": "[LABEL <Enter text here>]"
+                                                                                                                                                  "_mark": "mark_9261wo8uvam012aj42aw",
+                                                                                                                                                  "_content": "[LABEL ][GOTO mark_final17]"
                                                                                                                                                 }
                                                                                                                                               ],
                                                                                                                                               "_mark": "",
-                                                                                                                                              "_content": "[LABEL Ну зови]"
+                                                                                                                                              "_content": "[LABEL Кнопку сверху дави]"
                                                                                                                                             }
                                                                                                                                           ],
-                                                                                                                                          "_mark": "gop1_call_gops",
-                                                                                                                                          "_content": "[LABEL Ты чо убогим прикинулся? Хошь, чтоб я пацанов позвал?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                          "_mark": "mark_3hf9ev532y732pme955r",
+                                                                                                                                          "_content": "[LABEL Обана! Я таких вейпов еще не видал! Как его включать?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                         }
                                                                                                                                       ],
                                                                                                                                       "_mark": "",
-                                                                                                                                      "_content": "[LABEL Не буду]"
+                                                                                                                                      "_content": "[LABEL Ну держи]"
                                                                                                                                     }
                                                                                                                                   ],
-                                                                                                                                  "_mark": "mark_x9dw9d0gk459iwz8h19a",
-                                                                                                                                  "_content": "[LABEL Слух, лады, выгребай все бабло и вали отсюда!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                  "_mark": "mark_51j8ff8jo2tw7oil5b1t",
+                                                                                                                                  "_content": "[LABEL Давай сюда вейп!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                 }
                                                                                                                               ],
                                                                                                                               "_mark": "",
-                                                                                                                              "_content": "[LABEL Не отдам]"
-                                                                                                                            }
-                                                                                                                          ],
-                                                                                                                          "_mark": "mark_7du1l3xgnsa1s0t37b7h",
-                                                                                                                          "_content": "[LABEL Да не по шарабану. У меня украли, я твою заберу.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                                        }
-                                                                                                                      ],
-                                                                                                                      "_mark": "",
-                                                                                                                      "_content": "[LABEL Это моя куртка]"
-                                                                                                                    }
-                                                                                                                  ],
-                                                                                                                  "_mark": "mark_62024t32284f6hx1o780",
-                                                                                                                  "_content": "[LABEL Ну вот и мое бабло нашлось...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                                }
-                                                                                                              ],
-                                                                                                              "_mark": "",
-                                                                                                              "_content": "[LABEL >>>]"
-                                                                                                            }
-                                                                                                          ],
-                                                                                                          "_mark": "mark_vb6a4t5rax40f9us94h7",
-                                                                                                          "_content": "[LABEL <достает из внутреннего кармана деньги>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                        }
-                                                                                                      ],
-                                                                                                      "_mark": "",
-                                                                                                      "_content": "[LABEL >>>]"
-                                                                                                    }
-                                                                                                  ],
-                                                                                                  "_mark": "mark_k4y36x43bpxe3pjw1112",
-                                                                                                  "_content": "[LABEL Вспомнил, бабло во внутренних лежало. Показывай.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                }
-                                                                                              ],
-                                                                                              "_mark": "",
-                                                                                              "_content": "[LABEL Тоже ничего нет]"
-                                                                                            }
-                                                                                          ],
-                                                                                          "_mark": "mark_k7kp0571q80or22i3fr8",
-                                                                                          "_content": "[LABEL Да не этот карман, другой.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                        }
-                                                                                      ],
-                                                                                      "_mark": "",
-                                                                                      "_content": "[LABEL Нет там ничего]"
-                                                                                    }
-                                                                                  ],
-                                                                                  "_mark": "mark_the6i3f3dytv4cdzjk3y",
-                                                                                  "_content": "[LABEL Еще у меня там бабло лежало. Покежь карман!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                }
-                                                                              ],
-                                                                              "_mark": "",
-                                                                              "_content": "[LABEL Не твоя это куртка]"
-                                                                            }
-                                                                          ],
-                                                                          "_mark": "mark_0ix9huk6i0q725d70294",
-                                                                          "_content": "[LABEL Точняк моя! Вот пятно от пива. Слух, сам отдашь или кореша позвать?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                        }
-                                                                      ],
-                                                                      "_mark": "",
-                                                                      "_content": "[LABEL Не может быть]"
-                                                                    },
-                                                                    {
-                                                                      "_mark": "",
-                                                                      "_content": "[LABEL <Enter text here>]"
-                                                                    }
-                                                                  ],
-                                                                  "_mark": "gop1_story7,EPISODE7",
-                                                                  "_content": "[LABEL Нук, стопэ! У тя куртка, как у меня вчера украли.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                },
-                                                                {
-                                                                  "_mark": "gop1_story13",
-                                                                  "_content": "[LABEL Стопэ! Вчера у жигурды мобилу утянули. По описанию пацан на тебя похож был. Ну-ка закежь свою мобилу?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                },
-                                                                {
-                                                                  "node": [
-                                                                    {
-                                                                      "node": [
-                                                                        {
-                                                                          "node": [
-                                                                            {
-                                                                              "node": [
-                                                                                {
-                                                                                  "node": [
-                                                                                    {
-                                                                                      "node": [
-                                                                                        {
-                                                                                          "node": [
-                                                                                            {
-                                                                                              "node": [
-                                                                                                {
-                                                                                                  "node": [
-                                                                                                    {
-                                                                                                      "node": [
-                                                                                                        {
-                                                                                                          "node": [
-                                                                                                            {
-                                                                                                              "node": [
-                                                                                                                {
-                                                                                                                  "node": [
-                                                                                                                    {
-                                                                                                                      "node": [
-                                                                                                                        {
-                                                                                                                          "node": [
+                                                                                                                              "_content": "[LABEL Вейп есть]"
+                                                                                                                            },
                                                                                                                             {
-                                                                                                                              "node": [
-                                                                                                                                {
-                                                                                                                                  "node": [
-                                                                                                                                    {
-                                                                                                                                      "node": [
-                                                                                                                                        {
-                                                                                                                                          "_mark": "mark_9261wo8uvam012aj42aw",
-                                                                                                                                          "_content": "[LABEL ][GOTO mark_final17]"
-                                                                                                                                        }
-                                                                                                                                      ],
-                                                                                                                                      "_mark": "",
-                                                                                                                                      "_content": "[LABEL Кнопку сверху дави]"
-                                                                                                                                    }
-                                                                                                                                  ],
-                                                                                                                                  "_mark": "mark_3hf9ev532y732pme955r",
-                                                                                                                                  "_content": "[LABEL Обана! Я таких вейпов еще не видал! Как его включать?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                                                }
-                                                                                                                              ],
                                                                                                                               "_mark": "",
-                                                                                                                              "_content": "[LABEL Ну держи]"
+                                                                                                                              "_content": "[LABEL Пусто]"
                                                                                                                             }
                                                                                                                           ],
-                                                                                                                          "_mark": "mark_51j8ff8jo2tw7oil5b1t",
-                                                                                                                          "_content": "[LABEL Давай сюда вейп!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                          "_mark": "mark_t067w1o64yb9af7907j5",
+                                                                                                                          "_content": "[LABEL А в кармане чо есть?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                         }
                                                                                                                       ],
                                                                                                                       "_mark": "",
-                                                                                                                      "_content": "[LABEL Вейп есть]"
+                                                                                                                      "_content": "[LABEL Нет денег]"
                                                                                                                     },
-                                                                                                                    {
-                                                                                                                      "_mark": "",
-                                                                                                                      "_content": "[LABEL Пусто]"
-                                                                                                                    }
-                                                                                                                  ],
-                                                                                                                  "_mark": "mark_t067w1o64yb9af7907j5",
-                                                                                                                  "_content": "[LABEL А в кармане чо есть?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                                }
-                                                                                                              ],
-                                                                                                              "_mark": "",
-                                                                                                              "_content": "[LABEL Нет денег]"
-                                                                                                            },
-                                                                                                            {
-                                                                                                              "node": [
-                                                                                                                {
-                                                                                                                  "node": [
                                                                                                                     {
                                                                                                                       "node": [
                                                                                                                         {
@@ -3299,110 +3181,122 @@
                                                                                                                                                                             {
                                                                                                                                                                               "node": [
                                                                                                                                                                                 {
-                                                                                                                                                                                  "_mark": "mark_epe82o935786w7x1c2ck",
-                                                                                                                                                                                  "_content": "[LABEL ][GOTO mark_final16]"
+                                                                                                                                                                                  "node": [
+                                                                                                                                                                                    {
+                                                                                                                                                                                      "node": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                          "_mark": "mark_epe82o935786w7x1c2ck",
+                                                                                                                                                                                          "_content": "[LABEL ][GOTO mark_final16]"
+                                                                                                                                                                                        }
+                                                                                                                                                                                      ],
+                                                                                                                                                                                      "_mark": "",
+                                                                                                                                                                                      "_content": "[LABEL Сгинь отсюда!]"
+                                                                                                                                                                                    }
+                                                                                                                                                                                  ],
+                                                                                                                                                                                  "_mark": "mark_3c351h0q32y5ap9mv7gx",
+                                                                                                                                                                                  "_content": "[LABEL <ГГ берет деньги>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                                                                                                 }
                                                                                                                                                                               ],
                                                                                                                                                                               "_mark": "",
-                                                                                                                                                                              "_content": "[LABEL Сгинь отсюда!]"
+                                                                                                                                                                              "_content": "[LABEL Взять деньги]"
                                                                                                                                                                             }
                                                                                                                                                                           ],
-                                                                                                                                                                          "_mark": "mark_3c351h0q32y5ap9mv7gx",
-                                                                                                                                                                          "_content": "[LABEL <ГГ берет деньги>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                                                                                                          "_mark": "mark_8u00xdgzh3lu9926znrb",
+                                                                                                                                                                          "_content": "[LABEL Эээ! Эээ! Братуха, постой! Ладно, ладно, вот деньги!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                         }
                                                                                                                                                                       ],
                                                                                                                                                                       "_mark": "",
-                                                                                                                                                                      "_content": "[LABEL Взять деньги]"
+                                                                                                                                                                      "_content": "[LABEL А теперь ты гони деньги, чудила!]"
                                                                                                                                                                     }
                                                                                                                                                                   ],
-                                                                                                                                                                  "_mark": "mark_8u00xdgzh3lu9926znrb",
-                                                                                                                                                                  "_content": "[LABEL Эээ! Эээ! Братуха, постой! Ладно, ладно, вот деньги!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                  "_mark": "mark_2k31115492811xfo944u",
+                                                                                                                                                                  "_content": "[LABEL Что же ты раньше то молчал, братуха? Ну я почапал...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                 }
                                                                                                                                                               ],
                                                                                                                                                               "_mark": "",
-                                                                                                                                                              "_content": "[LABEL А теперь ты гони деньги, чудила!]"
+                                                                                                                                                              "_content": "[LABEL ]"
                                                                                                                                                             }
                                                                                                                                                           ],
-                                                                                                                                                          "_mark": "mark_2k31115492811xfo944u",
-                                                                                                                                                          "_content": "[LABEL Что же ты раньше то молчал, братуха? Ну я почапал...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                          "_mark": "mark_39y6flz9z41948ua76z6",
+                                                                                                                                                          "_content": "[LABEL <гоп отдает нож>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                                                                         }
                                                                                                                                                       ],
                                                                                                                                                       "_mark": "",
                                                                                                                                                       "_content": "[LABEL ]"
                                                                                                                                                     }
                                                                                                                                                   ],
-                                                                                                                                                  "_mark": "mark_39y6flz9z41948ua76z6",
-                                                                                                                                                  "_content": "[LABEL <гоп отдает нож>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                                                                                  "_mark": "mark_jay42puok3z64kat64j7",
+                                                                                                                                                  "_content": "[LABEL <ГГ дает 3 штуки>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                                                                 }
                                                                                                                                               ],
                                                                                                                                               "_mark": "",
-                                                                                                                                              "_content": "[LABEL ]"
+                                                                                                                                              "_content": "[LABEL >>>]"
                                                                                                                                             }
                                                                                                                                           ],
-                                                                                                                                          "_mark": "mark_jay42puok3z64kat64j7",
-                                                                                                                                          "_content": "[LABEL <ГГ дает 3 штуки>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                                                                          "_mark": "mark_jx5tp679l445n98qj086",
+                                                                                                                                          "_content": "[LABEL Чо??? 3 штуки за это гов..? Эээ, ну давай!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                         }
                                                                                                                                       ],
                                                                                                                                       "_mark": "",
-                                                                                                                                      "_content": "[LABEL >>>]"
+                                                                                                                                      "_content": "[LABEL Продай нож за 3 штуки?]"
                                                                                                                                     }
                                                                                                                                   ],
-                                                                                                                                  "_mark": "mark_jx5tp679l445n98qj086",
-                                                                                                                                  "_content": "[LABEL Чо??? 3 штуки за это гов..? Эээ, ну давай!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                  "_mark": "mark_4bcnn0k3jh5upfjeg98r",
+                                                                                                                                  "_content": "[LABEL Щас у тебя в боку будет!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                 }
                                                                                                                               ],
                                                                                                                               "_mark": "",
-                                                                                                                              "_content": "[LABEL Продай нож за 3 штуки?]"
+                                                                                                                              "_content": "[LABEL Красивый у тебя нож]"
                                                                                                                             }
                                                                                                                           ],
-                                                                                                                          "_mark": "mark_4bcnn0k3jh5upfjeg98r",
-                                                                                                                          "_content": "[LABEL Щас у тебя в боку будет!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                          "_mark": "mark_1ltngs8641q5802b0z9o",
+                                                                                                                          "_content": "[LABEL Еще быстрее, я сказал!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                         }
                                                                                                                       ],
                                                                                                                       "_mark": "",
-                                                                                                                      "_content": "[LABEL Красивый у тебя нож]"
+                                                                                                                      "_content": "[LABEL Ладно, ладно]"
                                                                                                                     }
                                                                                                                   ],
-                                                                                                                  "_mark": "mark_1ltngs8641q5802b0z9o",
-                                                                                                                  "_content": "[LABEL Еще быстрее, я сказал!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                  "_mark": "mark_hwc38443twhmr4a8z072",
+                                                                                                                  "_content": "[LABEL Быстро, я сказал!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
-                                                                                                              "_content": "[LABEL Ладно, ладно]"
+                                                                                                              "_content": "[LABEL Эээ! Полегче!]"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "node": [
+                                                                                                                {
+                                                                                                                  "_mark": "mark_fgc50070xv93zt53798l",
+                                                                                                                  "_content": "[LABEL ][GOTO mark_final15]"
+                                                                                                                }
+                                                                                                              ],
+                                                                                                              "_mark": "",
+                                                                                                              "_content": "[LABEL А то что ты мне сделаешь?]"
                                                                                                             }
                                                                                                           ],
-                                                                                                          "_mark": "mark_hwc38443twhmr4a8z072",
-                                                                                                          "_content": "[LABEL Быстро, я сказал!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                          "_mark": "mark_57t169o75gl4o898x4go",
+                                                                                                          "_content": "[LABEL Бабло все выгреб из карманов!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "",
-                                                                                                      "_content": "[LABEL Эээ! Полегче!]"
-                                                                                                    },
-                                                                                                    {
-                                                                                                      "node": [
-                                                                                                        {
-                                                                                                          "_mark": "mark_fgc50070xv93zt53798l",
-                                                                                                          "_content": "[LABEL ][GOTO mark_final15]"
-                                                                                                        }
-                                                                                                      ],
-                                                                                                      "_mark": "",
-                                                                                                      "_content": "[LABEL А то что ты мне сделаешь?]"
+                                                                                                      "_content": "[LABEL ]"
                                                                                                     }
                                                                                                   ],
-                                                                                                  "_mark": "mark_57t169o75gl4o898x4go",
-                                                                                                  "_content": "[LABEL Бабло все выгреб из карманов!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_mark": "mark_qp9p3k26f46p9wp6053l",
+                                                                                                  "_content": "[LABEL Слышь, ты, чудила! Достал ты меня!<гоп с ножом в руке>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
-                                                                                              "_content": "[LABEL ]"
+                                                                                              "_content": "[LABEL А где здесь нормальные?]"
                                                                                             }
                                                                                           ],
-                                                                                          "_mark": "mark_qp9p3k26f46p9wp6053l",
-                                                                                          "_content": "[LABEL Слышь, ты, чудила! Достал ты меня!<гоп с ножом в руке>][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                          "_mark": "mark_7d54310k237yj49543l8",
+                                                                                          "_content": "[LABEL Для любого нормального пацана.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
-                                                                                      "_content": "[LABEL Не буду]"
+                                                                                      "_content": "[LABEL Для кого?]"
                                                                                     },
                                                                                     {
                                                                                       "_mark": "",
@@ -3410,11 +3304,11 @@
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "mark_h3jxl1d0275ghtjt3v92",
-                                                                                  "_content": "[LABEL Это очень серъезная предъява!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                  "_content": "[LABEL Это серъезная предъява!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                 }
                                                                               ],
                                                                               "_mark": "",
-                                                                              "_content": "[LABEL Не обязан]"
+                                                                              "_content": "[LABEL Я тебе не обязан]"
                                                                             },
                                                                             {
                                                                               "node": [
@@ -3442,7 +3336,7 @@
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
-                                                                                              "_content": "[LABEL Ничего]"
+                                                                                              "_content": "[LABEL Это другое]"
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "mark_4ur7a0efk3l7a36t53bu",
@@ -3466,11 +3360,11 @@
                                                                             }
                                                                           ],
                                                                           "_mark": "mark_6sc1wx8g14ey5275wsmv",
-                                                                          "_content": "[LABEL Ну-ка, обоснуй.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                          "_content": "[LABEL Не понял, обоснуй!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                         }
                                                                       ],
                                                                       "_mark": "",
-                                                                      "_content": "[LABEL Понимай, как хочешь]"
+                                                                      "_content": "[LABEL Как тебе угодно]"
                                                                     },
                                                                     {
                                                                       "node": [
@@ -3517,8 +3411,8 @@
                                                                       "_content": "[LABEL Я не называл]"
                                                                     }
                                                                   ],
-                                                                  "_mark": "gop1_story8,EPISODE8",
-                                                                  "_content": "[LABEL Это ты меня щас так пидасом назвал?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_mark": "gop1_story7,EPISODE7",
+                                                                  "_content": "[LABEL Это ты меня щас так педисом назвал?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 }
                                                               ],
                                                               "_mark": "",
@@ -3636,7 +3530,7 @@
                                                         }
                                                       ],
                                                       "_mark": "",
-                                                      "_content": "[LABEL Ничем]"
+                                                      "_content": "[LABEL Нормально все]"
                                                     },
                                                     {
                                                       "_mark": "",
