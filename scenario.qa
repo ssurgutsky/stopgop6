@@ -571,7 +571,7 @@
 															[GOTO hero_mobile_what_about_yours]
 															[GOTO hero_mobile_tell_no_i_call]
 														[gop1_story7,EPISODE7]Это ты меня щас так педисом назвал?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															Нет, чиполлиной
+															Нет, Чиполлином
 																[mark_6sc1wx8g14ey5275wsmv]Не понял, обоснуй![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Я тебе не обязан
 																		[mark_h3jxl1d0275ghtjt3v92]Это серъезная предъява![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -613,7 +613,7 @@
 																														[mark_s3cofvrgj0261ny3ih7f]<Enter text here>
 																													Колокольчик
 																														[mark_76pn20bri2374wees3mr]На кой те колокольчик?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																															Тебе дать, корешу позвонить
+																															Даю позвонить, когда просят
 																																[mark_zhe2ak4yzac83cw65706][GOTO mark_final15]
 																									А то что ты мне сделаешь?
 																										[mark_fgc50070xv93zt53798l][GOTO mark_final15]
