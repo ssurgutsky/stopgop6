@@ -1068,7 +1068,7 @@
                                                                                                                                                                 }
                                                                                                                                                               ],
                                                                                                                                                               "_mark": "",
-                                                                                                                                                              "_content": "[LABEL Покажи мобильник]"
+                                                                                                                                                              "_content": "[LABEL Покажи]"
                                                                                                                                                             },
                                                                                                                                                             {
                                                                                                                                                               "_mark": "",
@@ -2401,6 +2401,16 @@
                                                                               ],
                                                                               "_mark": "",
                                                                               "_content": "[LABEL Возможно знаю]"
+                                                                            },
+                                                                            {
+                                                                              "node": [
+                                                                                {
+                                                                                  "_mark": "mark_800w316xe4m5za85106q",
+                                                                                  "_content": "[LABEL ][GOTO gop1_brick_friend_prison]"
+                                                                                }
+                                                                              ],
+                                                                              "_mark": "",
+                                                                              "_content": "[LABEL Это не он Шрека играл?]"
                                                                             }
                                                                           ],
                                                                           "_mark": "mark_s56q4p6d1mbfeucuyb3h",
@@ -2494,7 +2504,7 @@
                                                                                                                                                                                                 }
                                                                                                                                                                                               ],
                                                                                                                                                                                               "_mark": "",
-                                                                                                                                                                                              "_content": "[LABEL И тебе не болеть]"
+                                                                                                                                                                                              "_content": "[LABEL Бывай. Береги брюки сзади]"
                                                                                                                                                                                             }
                                                                                                                                                                                           ],
                                                                                                                                                                                           "_mark": "gop1_mobile_bye",
@@ -2520,11 +2530,11 @@
                                                                                                                                                                                 }
                                                                                                                                                                               ],
                                                                                                                                                                               "_mark": "hero_mobile_go_out_chipo",
-                                                                                                                                                                              "_content": "[LABEL Иди в пень, чиполлино]"
+                                                                                                                                                                              "_content": "[LABEL Иди в пень, Вася]"
                                                                                                                                                                             }
                                                                                                                                                                           ],
                                                                                                                                                                           "_mark": "gop1_mobile_you_afraid",
-                                                                                                                                                                          "_content": "[LABEL Боишься, что мобилу отберу? Отойди в сторону.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                          "_content": "[LABEL Чо, кринжуешь, шо мобилу отберу?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                         }
                                                                                                                                                                       ],
                                                                                                                                                                       "_mark": "",
@@ -2536,7 +2546,7 @@
                                                                                                                                                                     }
                                                                                                                                                                   ],
                                                                                                                                                                   "_mark": "mark_av006s5cwc5211nk8lz7",
-                                                                                                                                                                  "_content": "[LABEL Давай я те заплачу за sms.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                  "_content": "[LABEL Ну хош, я те заплачу?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                 }
                                                                                                                                                               ],
                                                                                                                                                               "_mark": "",
@@ -2701,8 +2711,8 @@
                                                                                                                                                                                                       "_content": "[LABEL Не отдам]"
                                                                                                                                                                                                     },
                                                                                                                                                                                                     {
-                                                                                                                                                                                                      "_mark": "hero_mobile_ok_i_go",
-                                                                                                                                                                                                      "_content": "[LABEL ]"
+                                                                                                                                                                                                      "_mark": "",
+                                                                                                                                                                                                      "_content": "[LABEL ][GOTO hero_mobile_ok_i_go]"
                                                                                                                                                                                                     }
                                                                                                                                                                                                   ],
                                                                                                                                                                                                   "_mark": "mark_0jbxra9h7k9x3x4xh112",
@@ -2713,8 +2723,8 @@
                                                                                                                                                                                               "_content": "[LABEL Тогда не отдам тебе мобилу]"
                                                                                                                                                                                             },
                                                                                                                                                                                             {
-                                                                                                                                                                                              "_mark": "hero_mobile_ok_i_go",
-                                                                                                                                                                                              "_content": "[LABEL ]"
+                                                                                                                                                                                              "_mark": "",
+                                                                                                                                                                                              "_content": "[LABEL ][GOTO hero_mobile_ok_i_go]"
                                                                                                                                                                                             }
                                                                                                                                                                                           ],
                                                                                                                                                                                           "_mark": "mark_00en4v8n5p148g64mn92",
@@ -3335,8 +3345,26 @@
                                                                                       "_content": "[LABEL Для кого?]"
                                                                                     },
                                                                                     {
+                                                                                      "node": [
+                                                                                        {
+                                                                                          "node": [
+                                                                                            {
+                                                                                              "node": [
+                                                                                                {
+                                                                                                  "_mark": "mark_x6pfu94g7fvy7f3mj235",
+                                                                                                  "_content": "[LABEL ][GOTO mark_final9]"
+                                                                                                }
+                                                                                              ],
+                                                                                              "_mark": "",
+                                                                                              "_content": "[LABEL ]"
+                                                                                            }
+                                                                                          ],
+                                                                                          "_mark": "mark_26xj629t05m828o48g80",
+                                                                                          "_content": "[LABEL Сява - это Вячеслав. А Вася - это ты!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                        }
+                                                                                      ],
                                                                                       "_mark": "",
-                                                                                      "_content": "[LABEL <Enter text here>]"
+                                                                                      "_content": "[LABEL Вася - это Сява наоборот]"
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "mark_h3jxl1d0275ghtjt3v92",
@@ -3396,11 +3424,11 @@
                                                                             }
                                                                           ],
                                                                           "_mark": "mark_6sc1wx8g14ey5275wsmv",
-                                                                          "_content": "[LABEL Не понял, обоснуй!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                          "_content": "[LABEL Не понял, обоснуй...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                         }
                                                                       ],
                                                                       "_mark": "",
-                                                                      "_content": "[LABEL Нет, Чиполлином]"
+                                                                      "_content": "[LABEL Ну не гоблин вислоухий же]"
                                                                     },
                                                                     {
                                                                       "node": [
@@ -3440,15 +3468,15 @@
                                                                             }
                                                                           ],
                                                                           "_mark": "mark_dwman4a1171fc30jli9q",
-                                                                          "_content": "[LABEL Хочешь сказать, что я балабол?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                          "_content": "[LABEL Хошь сказать, что я балабол?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                         }
                                                                       ],
                                                                       "_mark": "",
-                                                                      "_content": "[LABEL Тебе показалось]"
+                                                                      "_content": "[LABEL Я не называл]"
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_story7,EPISODE7",
-                                                                  "_content": "[LABEL Это ты меня щас так педисом назвал?][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Эээ! Ты меня щас Васей назвал?!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 }
                                                               ],
                                                               "_mark": "",
@@ -4008,7 +4036,7 @@
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "",
-                                                                                                      "_content": "[LABEL Да, бокс тоже]"
+                                                                                                      "_content": "[LABEL Да, боксер тоже]"
                                                                                                     },
                                                                                                     {
                                                                                                       "node": [
@@ -4042,7 +4070,7 @@
                                                                                 }
                                                                               ],
                                                                               "_mark": "",
-                                                                              "_content": "[LABEL Нет, не курю]"
+                                                                              "_content": "[LABEL Не курю, нога болит]"
                                                                             }
                                                                           ],
                                                                           "_mark": "mark_f3026x9bk01oxaa0rw1u",

@@ -187,7 +187,7 @@
 																																		[gop1_pot_mama_swear]Да ты чо, братан! Мамой клянусь![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			Я на слово не верю
 																																				[gop1_pot_wanna_mobile]Ну хошь, я те бубнилу в залог оставлю?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																					Покажи мобильник
+																																					Покажи
 																																						[mark_q6erk1ry56ck97701uf6]Вот, смотри. Я у жигурды за 5 косарей брал. Ваще новая 10 стоит.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																							Десятку вернешь, согласен?
 																																								[mark_p53m7gv75k6u948ytd5k]Ай, братан! Ты меня прям грабишь...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
@@ -448,6 +448,8 @@
 																								[mark_yynz174hgkd6jb08ud01][GOTO gop1_brick_you_fool]
 																	Возможно знаю
 																		[mark_9srz00t3yivhh9znc30r][GOTO gop1_brick_friend_prison]
+																	Это не он Шрека играл?
+																		[mark_800w316xe4m5za85106q][GOTO gop1_brick_friend_prison]
 															Знаю
 																[mark_o35m0jym630f5697d250][GOTO gop1_brick_you_know_brick]
 														[gop1_story6,EPISODE6]Слух, дай мобилу, корешу звонок сделать.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -474,16 +476,16 @@
 																																			Трудно
 																																				[mark_nztdk0922o9b7p16r2f1]Ну sms ему закинь: "Сява долг вернул".[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																					Попроси другого
-																																						[mark_av006s5cwc5211nk8lz7]Давай я те заплачу за sms.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																						[mark_av006s5cwc5211nk8lz7]Ну хош, я те заплачу?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																							Нет, не надо
-																																								[gop1_mobile_you_afraid]Боишься, что мобилу отберу? Отойди в сторону.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																								[gop1_mobile_you_afraid]Чо, кринжуешь, шо мобилу отберу?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																									[hero_mobile_ok_send_sms]Ладно, отправлю sms
 																																										[mark_cp20376f6b93demoad13]<ГГ отправляет смс>[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																											Отправил
 																																												[gop1_mobile_bye]Ну, бывай, братухан, я почапал.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																													И тебе не болеть
+																																													Бывай. Береги брюки сзади
 																																														[mark_3t5j6fdsg6md31r59156][GOTO mark_final3]
-																																									[hero_mobile_go_out_chipo]Иди в пень, чиполлино
+																																									[hero_mobile_go_out_chipo]Иди в пень, Вася
 																																										[mark_i6ni8338bjch4254qua7][GOTO gop1_story7]
 																																							[GOTO hero_mobile_ok_send_sms]
 																																					Отстань от меня
@@ -521,8 +523,8 @@
 																																																		[mark_drnm8tj946zxl0eu8d1y](ГГ отдает гопу мобилу)[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																																			
 																																																				[mark_5o258o7769cpmihjvfe6][GOTO gop1_mobile_bye]
-																																															[hero_mobile_ok_i_go]
-																																													[hero_mobile_ok_i_go]
+																																															[GOTO hero_mobile_ok_i_go]
+																																													[GOTO hero_mobile_ok_i_go]
 																																											[GOTO hero_mobile_ok_i_go]
 																																									[GOTO hero_mobile_ok_i_go]
 																																			[hero_mobile_cant_give]Не могу тебе дать
@@ -570,9 +572,9 @@
 																	[GOTO hero_mobile_you_have_your_own]
 															[GOTO hero_mobile_what_about_yours]
 															[GOTO hero_mobile_tell_no_i_call]
-														[gop1_story7,EPISODE7]Это ты меня щас так педисом назвал?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-															Нет, Чиполлином
-																[mark_6sc1wx8g14ey5275wsmv]Не понял, обоснуй![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+														[gop1_story7,EPISODE7]Эээ! Ты меня щас Васей назвал?![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															Ну не гоблин вислоухий же
+																[mark_6sc1wx8g14ey5275wsmv]Не понял, обоснуй...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Я тебе не обязан
 																		[mark_h3jxl1d0275ghtjt3v92]Это серъезная предъява![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Для кого?
@@ -617,7 +619,10 @@
 																																[mark_zhe2ak4yzac83cw65706][GOTO mark_final15]
 																									А то что ты мне сделаешь?
 																										[mark_fgc50070xv93zt53798l][GOTO mark_final15]
-																			<Enter text here>
+																			Вася - это Сява наоборот
+																				[mark_26xj629t05m828o48g80]Сява - это Вячеслав. А Вася - это ты![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																					
+																						[mark_x6pfu94g7fvy7f3mj235][GOTO mark_final9]
 																	Почему я должен обосновывать?
 																		[mark_p404ircuox01dleth634]Потому что ты оправдываешься.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Я не оправдываюсь
@@ -627,8 +632,8 @@
 																					Это другое
 																						[mark_q9v3q527p097qglm8a57][GOTO mark_final9]
 																			[GOTO hero_talk_fuck_you]
-															Тебе показалось
-																[mark_dwman4a1171fc30jli9q]Хочешь сказать, что я балабол?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+															Я не называл
+																[mark_dwman4a1171fc30jli9q]Хошь сказать, что я балабол?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																	Нет
 																		[mark_1hendb7c00c0sv4q762u]Значит все таки назвал?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			>>>
@@ -718,7 +723,7 @@
 																						[mark_c6uwv26q2204116f4pxb][GOTO mark_final2]
 																			Ты сам охренел
 																				[mark_8q5u9b522da8c86z34qo][GOTO gop1_go_beat]
-																	Нет, не курю
+																	Не курю, нога болит
 																		[mark_7j1eguw768ikmvfw64ur]Спортсмен, что ли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Нет, рак лёгких
 																				[mark_3998kj2t071mm12474o7]О, ну извини братан...[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
@@ -740,7 +745,7 @@
 																										[mark_32wfiq2htyl97d6wl56z][GOTO mark_final12]
 																					Шахматы
 																						[mark_dhl8rsv07fggb21gee64]Гонишь, ты на боксера похож...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																							Да, бокс тоже
+																							Да, боксер тоже
 																								[mark_n70wt8y1akat95ht1dih]Ты чо поверил? Я же пошутил, братуха![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																									
 																										[mark_gja8d1lfq86a786470z5][GOTO mark_final9]
