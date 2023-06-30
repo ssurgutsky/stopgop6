@@ -62,9 +62,9 @@ export default {
       if (Settings.ENABLE_SPEECH) {
         if (text && text !== '...') {
           var voices = speechSynthesis.getVoices()
-          // console.log('voices', voices)
+          console.log('voices', voices)
           this.currentUtterance = new SpeechSynthesisUtterance(text)
-          this.currentUtterance.voice = voices[0]
+          this.currentUtterance.voice = voices[4]
           this.currentUtterance.rate = 2
           this.currentUtterance.onend = this.onAudioEnded
           // console.log('utterance', this.currentUtterance)
