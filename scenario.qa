@@ -219,13 +219,13 @@
 																																								[mark_kk269qo0c786770f64a0][GOTO gop1_pot_take_mobile]
 																																					[GOTO hero_pot_ok_give_me_mobile]
 																																			А она у тебя есть?
-																																				[mark_ld0deu8g177w0bm6c0i2]Ыыы... лады, я тя понял, братан.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																				[mark_ld0deu8g177w0bm6c0i2]Эээ, братан, не надо о грустном.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																					
-																																						[gop1_pot_if_dont_want_give]Если не хошь занять, то...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
+																																						[gop1_pot_if_dont_want_give]Слух, есть еще другое предложение...[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]
 																																							
 																																								[mark_akgm634s71ku7x74q9w2][GOTO gop1_story4]
 																																	[hero_pot_can_give_1]Косарь могу дать
-																																		[mark_861th8f9u01f4nzb8qby]Кидай братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																		[mark_861th8f9u01f4nzb8qby]Кидай, братан![VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			[hero_pot_will_you_return]А точно вернешь?
 																																				[mark_y97124545dj6l107hr3g][GOTO gop1_pot_mama_swear]
 																																			Держи
