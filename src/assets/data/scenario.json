@@ -2530,7 +2530,7 @@
                                                                                                                                                                                 }
                                                                                                                                                                               ],
                                                                                                                                                                               "_mark": "hero_mobile_go_out_chipo",
-                                                                                                                                                                              "_content": "[LABEL Иди в пень, Вася]"
+                                                                                                                                                                              "_content": "[LABEL Иди, гуляй, Вася]"
                                                                                                                                                                             }
                                                                                                                                                                           ],
                                                                                                                                                                           "_mark": "gop1_mobile_you_afraid",
@@ -4182,7 +4182,7 @@
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "_mark": "gop1_sorry_hero",
-                                                                                                                  "_content": "[LABEL О, ну извини, братан...][VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]"
+                                                                                                                  "_content": "[LABEL Опа... ааа... эээ... ну извини, братан...][VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]"
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
@@ -4363,6 +4363,10 @@
                                                                                       ],
                                                                                       "_mark": "",
                                                                                       "_content": "[LABEL Ты сам охренел]"
+                                                                                    },
+                                                                                    {
+                                                                                      "_mark": "",
+                                                                                      "_content": "[LABEL ][GOTO hero_mobile_go_out_chipo]"
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "mark_42u24xq5ht4h6n9w157g",

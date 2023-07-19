@@ -485,7 +485,7 @@
 																																												[gop1_mobile_bye]Ну, бывай, братухан, я почапал.[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																													Бывай
 																																														[mark_3t5j6fdsg6md31r59156][GOTO mark_final3]
-																																									[hero_mobile_go_out_chipo]Иди в пень, Вася
+																																									[hero_mobile_go_out_chipo]Иди, гуляй, Вася
 																																										[mark_i6ni8338bjch4254qua7][GOTO gop1_story7]
 																																							[GOTO hero_mobile_ok_send_sms]
 																																					Отстань от меня
@@ -775,7 +775,7 @@
 																									Ладно, только быстрее
 																										[mark_042dd7plq1phx6m2t0c4][GOTO gop1_asks]
 																									Слушай, отвали, я срать хочу
-																										[gop1_sorry_hero]О, ну извини, братан...[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
+																										[gop1_sorry_hero]Опа... ааа... эээ... ну извини, братан...[VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]
 																											
 																												[mark_z9c44e7mi22u345e068w][GOTO mark_final2]
 																							В морду получишь
@@ -807,6 +807,7 @@
 																						[mark_c6uwv26q2204116f4pxb][GOTO mark_final2]
 																			Ты сам охренел
 																				[mark_8q5u9b522da8c86z34qo][GOTO gop1_go_beat]
+																			[GOTO hero_mobile_go_out_chipo]
 																	Не курю
 																		[mark_7j1eguw768ikmvfw64ur]Спортсмен, что ли?[VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			Нет, рак лёгких
