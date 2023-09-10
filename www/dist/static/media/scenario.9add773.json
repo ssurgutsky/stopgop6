@@ -1102,7 +1102,7 @@
                                                                                                                                                                     }
                                                                                                                                                                   ],
                                                                                                                                                                   "_mark": "gop1_pot_if_dont_want_give",
-                                                                                                                                                                  "_content": "[LABEL Если не хошь занять, то...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                                                                                                  "_content": "[LABEL Слух, есть еще другое предложение...][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                                                                                 }
                                                                                                                                                               ],
                                                                                                                                                               "_mark": "",
@@ -1110,7 +1110,7 @@
                                                                                                                                                             }
                                                                                                                                                           ],
                                                                                                                                                           "_mark": "mark_ld0deu8g177w0bm6c0i2",
-                                                                                                                                                          "_content": "[LABEL Ыыы... лады, я тя понял, братан.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
+                                                                                                                                                          "_content": "[LABEL Эээ, братан, не надо о грустном.][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1]"
                                                                                                                                                         }
                                                                                                                                                       ],
                                                                                                                                                       "_mark": "",
@@ -1150,7 +1150,7 @@
                                                                                                                                                     }
                                                                                                                                                   ],
                                                                                                                                                   "_mark": "mark_861th8f9u01f4nzb8qby",
-                                                                                                                                                  "_content": "[LABEL Кидай братан!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                  "_content": "[LABEL Кидай, братан!][VIDEO gops1_gop1_speaking_soft.mp4][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.mp4][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                 }
                                                                                                                                               ],
                                                                                                                                               "_mark": "hero_pot_can_give_1",
@@ -2530,7 +2530,7 @@
                                                                                                                                                                                 }
                                                                                                                                                                               ],
                                                                                                                                                                               "_mark": "hero_mobile_go_out_chipo",
-                                                                                                                                                                              "_content": "[LABEL Иди в пень, Вася]"
+                                                                                                                                                                              "_content": "[LABEL Иди, гуляй, Вася]"
                                                                                                                                                                             }
                                                                                                                                                                           ],
                                                                                                                                                                           "_mark": "gop1_mobile_you_afraid",
@@ -4129,6 +4129,10 @@
                                                                                                                             {
                                                                                                                               "_mark": "",
                                                                                                                               "_content": "[LABEL ][GOTO hero_asks_gop_calm_what_want]"
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                              "_mark": "",
+                                                                                                                              "_content": "[LABEL ][GOTO hero_mobile_go_out_chipo]"
                                                                                                                             }
                                                                                                                           ],
                                                                                                                           "_mark": "gop1_you_shit",
@@ -4182,7 +4186,7 @@
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "_mark": "gop1_sorry_hero",
-                                                                                                                  "_content": "[LABEL О, ну извини, братан...][VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]"
+                                                                                                                  "_content": "[LABEL Опа... ааа... эээ... ну извини, братан...][VIDEO gops1_gop1_go_away.mp4][AUDIO silent_1]"
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
@@ -4363,6 +4367,10 @@
                                                                                       ],
                                                                                       "_mark": "",
                                                                                       "_content": "[LABEL Ты сам охренел]"
+                                                                                    },
+                                                                                    {
+                                                                                      "_mark": "",
+                                                                                      "_content": "[LABEL ][GOTO hero_mobile_go_out_chipo]"
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "mark_42u24xq5ht4h6n9w157g",

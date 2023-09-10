@@ -770,6 +770,7 @@
 																															[hero_asks_gop_calm_what_want]Ладно, успокойся, чего хотел?
 																																[mark_6128jyvz6m2c50bmg1l6][GOTO gop1_want_ask]
 																													[GOTO hero_asks_gop_calm_what_want]
+																													[GOTO hero_mobile_go_out_chipo]
 																											[hero_asks_gop_what_want]Ладно, чо хотел то?
 																												[mark_3v1j4eodvft23hx85g00][GOTO gop1_want_ask]
 																									Ладно, только быстрее

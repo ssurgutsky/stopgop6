@@ -4129,6 +4129,10 @@
                                                                                                                             {
                                                                                                                               "_mark": "",
                                                                                                                               "_content": "[LABEL ][GOTO hero_asks_gop_calm_what_want]"
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                              "_mark": "",
+                                                                                                                              "_content": "[LABEL ][GOTO hero_mobile_go_out_chipo]"
                                                                                                                             }
                                                                                                                           ],
                                                                                                                           "_mark": "gop1_you_shit",
